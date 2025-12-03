@@ -54,14 +54,13 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 ## Research 
 
 - **WiCyS 2025 Presenter & Competitor**  
-  Selected as *one of 25 women out of thousands* to present research on *Machine Learning Models for Cyber Threat Detection on IoMT* at the 11th Annual WiCyS Conference. Competed in the National Cyber League CTF at the event.
+  Selected as *one of 25 women out of thousands* to present research on *Machine Learning Models for Cyber Threat Detection on IoMT* at the 11th Annual WiCyS Conference and competed in the National Cyber League CTF.
 
 - **Cybersecurity Researcher | Marymount University**  
-  Conducted a study analyzing 200+ data breaches using Tableau and presented findings to 150 attendees.
-  presented at the marymount annual researtch conference and slected to presebr at the virgibiia council researvh conference
+  Conducted a study analyzing 200+ data breaches using Tableau and presented findings to 150 attendees at the Marymount Annual Research Conference; also selected to present at the Virginia Collegiate Honors Research Conference.
 
 - **Generative AI Researcher**  
-  Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions; presented at the Virginia Honors Conference.
+  Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions and presented findings at the Virginia Honors Conference.
 
 ##Hackathons and CTFS
 
