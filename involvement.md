@@ -29,12 +29,13 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 - **Vice President | Virginia Collegiate Honors Council**  
   Led statewide honors programming, delivered conference remarks, facilitated student panels, and presented research for two years. Collaborated with the executive board and professors on marketing, funding strategy, and organizing the research conference.
-
+  
 - **Secretary | ACM-W (Association for Computing Machinery’s Council of Women)**  
   Organized gender-diversity and mentorship-focused events in tech while maintaining detailed documentation. Engaged professionals to provide networking and learning opportunities for students.
 
-- **Secretary | Student Government Association**
-Served two years—one year as a Senator, proposing and implementing changes to the financial aid package, and one year as Secretary, maintaining records, coordinating elections, managing communication, and supporting campus-wide initiatives.
+- **Secretary | Student Government Association**  
+  Served two years—one year as a Senator, proposing and implementing changes to the financial aid package, and one year as Secretary, maintaining records, coordinating elections, managing communication, and supporting campus-wide initiatives.
+
 
 ## Volunteer Work
 
