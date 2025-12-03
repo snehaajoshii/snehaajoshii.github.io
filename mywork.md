@@ -1,7 +1,7 @@
 ---
 layout: categories_work
 title: "My Work"
-author: Meron Woldesenbet
+author: Blen Begashaw
 author_profile: true
 ---
 
