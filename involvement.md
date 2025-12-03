@@ -4,61 +4,95 @@ title: Involvement and Activities
 permalink: /involvement/
 ---
 
-Beyond academics, I’ve had the opportunity to be involved in incredible programs, communities, and projects that have shaped my journey both personally and professionally.
+Beyond academics, I’ve had the opportunity to participate in impactful programs, research opportunities, competitions, and leadership roles that have shaped my professional and personal journey.
 
 ## Organizations
 
-I'm actively engaged in several tech communities that align with my values:
-- **ColorStack** – Attended the first ColorStack IRL Summit in 2024  
-- **Rewriting the Code (RTC)** – Empowering women in technology  
-- **Society of Women Engineers (SWE)** – Advancing women in engineering  
-- **Ignite AI4ALL** – Machine Learning Student (2024 cohort)  
-- **National Center for Women & Information Technology (NCWIT)** – Member and award recipient  
-- **National Society of Black Engineers (NSBE)** – Supporting Black excellence in engineering and tech  
+I’m actively involved in communities that support my growth in cybersecurity, leadership, and technology:
+
+- **ColorStack** – Member focused on supporting Black and Latinx students in tech  
+- **Rewriting the Code (RTC)** – Women in Tech community  
+- **Association for Computing Machinery’s Council of Women (ACM-W)** – Secretary  
+- **National Society of Leadership and Success (NSLS)** – Member  
+- **Phi Eta Sigma Honors Society** – Honors scholar  
+- **Marymount University Cyber Club** – CTF competitor and active participant  
+- **Saints for Service Scholar & Global Scholar Programs** – Leadership and service recognition  
 
 ## Leadership
 
-- **LeetCode Club President & Founder | Minnesota State University, Mankato**  
-  Founded a LeetCode Club on campus to help students like myself prepare for technical interviews through peer practice, support, and accountability. I also maintain a [GitHub repository](https://github.com/Meronats/LeetClub) that has resources such as resume templates, beginner books, and a job board for international students. I took on this initiative becasue I am passionate about accessiblity and want to be the resource I never had when I first started studying in college. 
+- **Resident Assistant | Marymount University**  
+  *Aug 2022 – May 2025*  
+  Managed a floor of 40+ residents, increasing community satisfaction by 25%, resolving conflicts with a 95% success rate, and organizing high-attendance community events.
 
-- **Community Outreach Lead | ColorStack Chapter at MNSU**  
-  I lead outreach initiatives to create opportunities and foster a sense of belonging for underrepresented students. I organize events, connect students to resources, and create pathways for meaningful engagement.
+- **Vice President | Virginia Collegiate Honors Council**  
+  *Apr 2023 – Apr 2024*  
+  Led statewide honors programming, delivered opening conference remarks, facilitated student panels, and presented research on Generative AI.
+
+- **Secretary | ACM-W (Association for Computing Machinery’s Council of Women)**  
+  Organized gender-diversity events in tech and maintained documentation for the organization.
+
+- **Secretary | Student Government Association**  
+  *Sep 2021 – May 2023*  
+  Maintained official SGA records, managed communication, coordinated elections, and supported campus-wide student initiatives.
 
 ## Volunteer Work
 
-- **Volunteer Teacher | Microsoft TEALS**  
-  Taught introductory programming class to high school students from diverse backgrounds. I love mentoring young kids that are interested in tech. I loved having chats with my students about games and projects they were working on. I truly saw my younger self in them and enjoyed every class. 
+- **Admin Volunteer | Culpepper Garden**  
+  *Mar 2022 – Present*  
+  Teach computer and cybersecurity basics to elderly residents, assist with proposal writing, analyze data for reports, and design marketing materials.
+
+- **Volunteer Customer Service Representative | New Hope Housing**  
+  *Sep 2021 – Mar 2022*  
+  Supported visitors and residents, assisted with intake, and provided frontline community service.
 
 ## Research and Hackathons
 
-- **Research Assistant | MNSU Undergraduate Research Center**  
-  *(January 2022 – May 2023)*  
-  Conducted research on optimizing data transmission in optical communication systems. Presented findings at university-level research conferences.
+- **WiCyS 2025 Presenter & Competitor**  
+  Selected as *one of 25 women out of thousands* to present research on *Machine Learning Models for Cyber Threat Detection on IoMT* at the 11th Annual WiCyS Conference. Competed in the National Cyber League CTF at the event.
 
-- **3rd Place Winner | HackUTA 2023**  
-  Participated in a 24-hour hackathon and developed a full-stack application to reduce food waste by tracking expiration dates and recipe suggestions.
+- **Cybersecurity Researcher | Marymount University**  
+  Conducted a study analyzing 200+ data breaches using Tableau and presented findings to 150 attendees.
+
+- **Generative AI Researcher**  
+  Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions; presented at the Virginia Honors Conference.
+
+- **Commonwealth CyberFusion, NCL, & ICL Competitor**  
+  Competed in statewide and national cybersecurity competitions, earning 7th place at CyberFusion and excelling in cryptography and web exploitation.
+
+- **Hackathons (Short Highlights)**  
+  - **HackMIT** – Co-built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.  
+  - **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.  
+  - **HackUTA** – 3rd place winner for a full-stack solution addressing food waste.  
+  - **Hoya Hacks** – Built an AI-powered Virtual Admissions Bot using Python, LangChain, and React.  
+  - **Black Wing Hacks** – Competed in DEI-focused challenge sponsored by Fidelity.  
 
 ## Programs
-- **Fellow | Impact Labs**  
-  Impact Labs is a selective program for young technologists who believe in using tech to drive social good. For a week, I lived in a hacker house and finally built a project I had been thinking about for a long time. I built *Radix* (Latin for “root”), a financial literacy application designed to support international students like myself. 
 
+- **Amazon REACHBACK University Program – Fully Funded Participant**  
+  Selected to participate in Amazon’s fully funded program focused on mentorship, career exploration, and professional development for emerging technologists.
 
-- **Graduate | NAB Technology Apprenticeship Program (TAP)**  
-  The NAB TAP is a hands-on program that introduces emerging technologists to the broadcast and media industry. As a participant, I explored cloud-based systems like AWS and gained real-world experience in broadcast engineering. After graduating from this 6-month-long program, I successfully earned the AWS Cloud Practitioner certification. 
+- **Kohl’s Emerging Talent Summit**  
+  Collaborated on a *pink-themed* case study redesigning Sephora’s recycling program using AI-powered, contactless systems. Worked with women across universities to pitch an innovative sustainability solution.
 
+- **Technology Engineer Apprentice | National Association of Broadcasters (NAB)**  
+  Completed a hybrid apprenticeship exploring broadcasting technology, media engineering, and AWS cloud foundations.
+
+- **Fireside Fellows**  
+  Gained industry insights at the intersection of tech and venture capital.
+
+- **National Retail Federation Ray Greenly Scholar**  
+  Selected to attend the NRF Student Program and one day of the NRF Big Show in NYC. Explored the intersection of retail and technology through panels, company tours, and hands-on exposure to cutting-edge AI and industry tools.
 
 ## Scholarships and Recognitions
 
-- **Microsoft Cybersecurity Women in Cloud Scholarship Recipient**  
-  Received scholarship and certification through a competitive program supporting women in cybersecurity.
-
-- **Google ‘Mentor Me Collective’ Program Participant**  
-  Selected for Google’s mentorship program scholarship focused on career development in project management and technical fields.
+- **Microsoft Cybersecurity Women in Cloud Scholar**  
+- **Ray Greenly Scholar – National Retail Federation**  
+- **Saints for Service Scholar**  
+- **Global Scholar Award Recipient**  
+- **2023 Student Award of Merit – Marymount University SGA**  
 
 ---
 
 # Why These Experiences Matter
 
-Each of these communities, programs, and achievements has helped me grow beyond technical skills. They’ve taught me leadership, collaboration, resilience, and how to turn passion into real-world impact.
-
-I'm excited to keep building, learning, and giving back wherever I go.
+Each of these programs, communities, and competitions has shaped my growth as a cybersecurity and software engineering professional. They’ve challenged me to lead, collaborate, research, and build solutions that matter. I’m grateful for every space that has helped me learn, represent my university, and contribute to communities I care about.
