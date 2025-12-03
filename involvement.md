@@ -9,18 +9,16 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 ## Organizations
 
 ### National Organizations
-- **Women in CyberSecurity(WiCyS)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference  
+- **Women in CyberSecurity (WiCyS)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference  
 - **ColorStack** – Active member supporting Black and Latinx students in tech  
 - **Rewriting the Code (RTC)** – Active member of this women-in-tech community; awarded a scholarship to attend Harvard WECode for two consecutive years  
-- **National Society of Black Engineers(NSBE)** – Member supporting Black excellence in engineering and technology  
+- **National Society of Black Engineers (NSBE)** – Member supporting Black excellence in engineering and technology  
 
 ### Campus Organizations
-
 - **Phi Eta Sigma Honors Society** – Honors scholar  
 - **Marymount University Cyber Club** – CTF competitor and active participant  
 - **Saints for Service Scholar & Global Scholar Programs** – Leadership and service recognition  
 
- 
 ## Leadership
 
 - **Resident Assistant | Marymount University**  
@@ -30,14 +28,13 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
   Cofounded the chapter, initiated members, and led events to build community and leadership opportunities. Directed programming to foster professional growth and engagement among members.
 
 - **Vice President | Virginia Collegiate Honors Council**  
-  Led statewide honors programming, delivered conference remarks, facilitated student panels, and presented research for two years. Worked with the executive board and professors on marketing, funding strategy, and organizing the research conference.
+  Led statewide honors programming, delivered conference remarks, facilitated student panels, and presented research for two years. Collaborated with the executive board and professors on marketing, funding strategy, and organizing the research conference.
 
 - **Secretary | ACM-W (Association for Computing Machinery’s Council of Women)**  
   Organized gender-diversity and mentorship-focused events in tech while maintaining detailed documentation. Engaged professionals to provide networking and learning opportunities for students.
 
 - **Secretary | Student Government Association**  
   Served one year as Senator and one year as Secretary, proposing and implementing changes to the financial aid package. Maintained records, coordinated elections, managed communication, and supported campus-wide initiatives.
-
 
 ## Volunteer Work
 
@@ -50,11 +47,10 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Mentor and Tutor | Local Elementary School**  
   Conducted weekly 1-hour sessions with a 2nd-grade student, practicing reading and math skills to support academic growth.
 
-
-## Research 
+## Research
 
 - **WiCyS 2025 Presenter & Competitor**  
-  Selected as *one of 25 women out of thousands* to present research on *Machine Learning Models for Cyber Threat Detection on IoMT* at the 11th Annual WiCyS Conference and competed in the National Cyber League CTF.
+  Selected as *one of 25 women out of thousands* to present research on *Machine Learning Models for Cyber Threat Detection on IoMT* at the 11th Annual WiCyS Conference. 
 
 - **Cybersecurity Researcher | Marymount University**  
   Conducted a study analyzing 200+ data breaches using Tableau and presented findings to 150 attendees at the Marymount Annual Research Conference; also selected to present at the Virginia Collegiate Honors Research Conference.
@@ -62,20 +58,19 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Generative AI Researcher**  
   Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions and presented findings at the Virginia Honors Conference.
 
-##Hackathons and CTFS
+## Hackathons and CTFs
 
 - **National Cyber League (NCL)** – Competed in hands-on cybersecurity challenges, demonstrating skills in cryptography, web security, network analysis, and forensics.  
 
 - **International Cyber League (ICL)** – Reached the finalist stage in this global competition, solving complex cybersecurity problems and showcasing expertise in cutting-edge technologies.  
 
-- **Commonwealth CyberFusion Capture the Flag | Virginia Military Institute** – Secured 7th place among Virginia universities while honing skills in cryptography, web exploitation, reverse engineering, wireless technology, and forensics.
-  
-- **HackMIT** – built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.
-  
--  **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.
-  
--   *Hoya Hacks** – Built an AI-powered Virtual Admissions Bot using Python, LangChain, and React.
+- **Commonwealth CyberFusion Capture the Flag | Virginia Military Institute** – Secured 7th place among Virginia universities while honing skills in cryptography, web exploitation, reverse engineering, wireless technology, and forensics.  
 
+- **HackMIT** – Built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.  
+
+- **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.  
+
+- **Hoya Hacks** – Built an AI-powered Virtual Admissions Bot using Python, LangChain, and React.
 
 ## Programs
 
@@ -93,7 +88,6 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 - **National Retail Federation Ray Greenly Scholar**  
   Fully funded participant in the NRF Student Program and Big Show in NYC, exploring retail technology through panels, company tours, and AI demonstrations.
-
 
 ## Scholarships and Recognitions
 
