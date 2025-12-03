@@ -53,7 +53,7 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **WiCyS 2025 Presenter & Competitor**  
   Selected as *one of 25 women out of thousands* to present research on *Machine Learning Models for Cyber Threat Detection on IoMT* at the 11th Annual WiCyS Conference. 
 
-- **Cybersecurity Researcher | Marymount University**  
+- **Cybersecurity Researcher**  
   Conducted a study analyzing 200+ data breaches using Tableau and presented findings to 150 attendees at the Marymount Annual Research Conference; also selected to present at the Virginia Collegiate Honors Research Conference.
 
 - **Generative AI Researcher**  
