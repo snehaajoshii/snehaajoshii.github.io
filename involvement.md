@@ -19,8 +19,8 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Phi Eta Sigma Honors Society** – Honors scholar  
 - **Marymount University Cyber Club** – CTF competitor and active participant  
 - **Saints for Service Scholar & Global Scholar Programs** – Leadership and service recognition  
- 
 
+ 
 ## Leadership
 
 - **Resident Assistant | Marymount University**  
@@ -42,16 +42,16 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 ## Volunteer Work
 
 - **Admin Volunteer | Culpepper Garden**  
-  *Mar 2022 – May 2025*  
   Teach computer and cybersecurity basics to elderly residents, assist with proposal writing, analyze data for reports, and design marketing materials.
 
 - **Volunteer Customer Service Representative | New Hope Housing**  
-  *Sep 2021 – Mar 2022*  
   Supported visitors and residents, assisted with intake, and provided frontline community service.
 
--Mentor and Tutor
+- **Mentor and Tutor | Local Elementary School**  
+  Conducted weekly 1-hour sessions with a 2nd-grade student, practicing reading and math skills to support academic growth.
 
-## Research and Hackathons
+
+## Research 
 
 - **WiCyS 2025 Presenter & Competitor**  
   Selected as *one of 25 women out of thousands* to present research on *Machine Learning Models for Cyber Threat Detection on IoMT* at the 11th Annual WiCyS Conference. Competed in the National Cyber League CTF at the event.
@@ -63,14 +63,20 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Generative AI Researcher**  
   Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions; presented at the Virginia Honors Conference.
 
-- **Commonwealth CyberFusion, NCL, & ICL Competitor**  
-  Competed in statewide and national cybersecurity competitions, earning 7th place at CyberFusion and excelling in cryptography and web exploitation.
+##Hackathons and CTFS
 
-- **Hackathons (Short Highlights)**  
-  - **HackMIT** – built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.  
-  - **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.    
-  - **Hoya Hacks** – Built an AI-powered Virtual Admissions Bot using Python, LangChain, and React.  
-  - **Black Wing Hacks** – Competed in a challenge sponsored by Fidelity.  
+- **National Cyber League (NCL)** – Competed in hands-on cybersecurity challenges, demonstrating skills in cryptography, web security, network analysis, and forensics.  
+
+- **International Cyber League (ICL)** – Reached the finalist stage in this global competition, solving complex cybersecurity problems and showcasing expertise in cutting-edge technologies.  
+
+- **Commonwealth CyberFusion Capture the Flag | Virginia Military Institute** – Secured 7th place among Virginia universities while honing skills in cryptography, web exploitation, reverse engineering, wireless technology, and forensics.
+  
+- **HackMIT** – built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.
+  
+-  **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.
+  
+-   *Hoya Hacks** – Built an AI-powered Virtual Admissions Bot using Python, LangChain, and React.
+
 
 ## Programs
 
@@ -78,26 +84,27 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
   Selected to participate in Amazon’s fully funded program focused on mentorship, career exploration, and professional development for emerging technologists.
 
 - **Kohl’s Emerging Talent Summit**  
-  Collaborated on a *pink-themed* case study redesigning Sephora’s recycling program using AI-powered, contactless systems. Worked with women across universities to pitch an innovative sustainability solution.
+  Finalist in a case study competition redesigning Sephora’s recycling program using AI-powered, contactless systems, collaborating with a team of six women.
 
 - **Technology Engineer Apprentice | National Association of Broadcasters (NAB)**  
   Completed a hybrid apprenticeship exploring broadcasting technology, media engineering, and AWS cloud foundations.
 
 - **Fireside Fellows**  
-  Gained industry insights at the intersection of tech and venture capital.
+  Selected for this fellowship to gain insights at the intersection of technology and venture capital through mentorship and industry workshops.
 
 - **National Retail Federation Ray Greenly Scholar**  
-  Selected to attend the NRF Student Program and one day of the NRF Big Show in NYC. Explored the intersection of retail and technology through panels, company tours, and hands-on exposure to cutting-edge AI and industry tools.
+  Fully funded participant in the NRF Student Program and Big Show in NYC, exploring retail technology through panels, company tours, and AI demonstrations.
+
 
 ## Scholarships and Recognitions
 
-- **Microsoft Cybersecurity Women in Cloud Scholar**  
 - **Ray Greenly Scholar – National Retail Federation**  
 - **Saints for Service Scholar**  
 - **Global Scholar Award Recipient**  
-- **2023 Student Award of Merit – Marymount University **
-- Bishop Ireton Award: the highest award from marymount university for one person in teh graduating class
-- The best Resident assistant of the year
+- **2023 Student Award of Merit – Marymount University**  
+- **Bishop Ireton Award – Graduating Class of 2025**  
+- **2023 Best Resident Assistant of the Year**
+
 ---
 
 # Why These Experiences Matter
