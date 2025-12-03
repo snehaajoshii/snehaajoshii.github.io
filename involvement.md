@@ -103,4 +103,8 @@ Served two years—one year as a Senator, proposing and implementing changes to 
 
 # Why These Experiences Matter
 
-Each of these programs, communities, and competitions has shaped my growth as a cybersecurity and software engineering professional. They’ve challenged me to lead, collaborate, research, and build solutions that matter. I’m grateful for every space that has helped me learn, represent my university, and contribute to communities I care about.
+Here’s a completely reworked version:
+
+## The Impact of These Experiences
+
+Participating in these programs, organizations, and competitions has been transformative, helping me develop both technical expertise and leadership skills. They’ve pushed me to solve complex problems, work effectively in teams, and innovate in real-world scenarios. Each opportunity strengthened my confidence, expanded my professional network, and allowed me to make meaningful contributions to the communities and fields I’m passionate about.
