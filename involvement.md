@@ -93,7 +93,7 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 ## Scholarships and Recognitions
 
 - Ray Greenly Scholar – National Retail Federation
-- - 2023 Student Award of Merit – Marymount University  
+- 2023 Student Award of Merit – Marymount University  
 - Bishop Ireton Award – Graduating Class of 2025   
 - Saints for Service Scholar  
 - Global Scholar Award Recipient  
@@ -102,9 +102,6 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 ---
 
-# Why These Experiences Matter
-
-Here’s a completely reworked version:
 
 ## The Impact of These Experiences
 
