@@ -65,11 +65,11 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 - **International Cyber League (ICL)** – Reached the finalist stage in this global competition, solving complex cybersecurity problems and showcasing expertise in cutting-edge technologies.  
 
-- **Commonwealth CyberFusion Capture the Flag at Virginia Military Institute** – Secured 7th place among Virginia universities while honing skills in cryptography, web exploitation, reverse engineering, wireless technology, and forensics.  
-
-- **HackMIT** – Built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.  
+- **Commonwealth CyberFusion Capture the Flag at Virginia Military Institute** – Secured 7th place among Virginia universities while honing skills in cryptography, web exploitation, reverse engineering, wireless technology, and forensics.
 
 - **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.  
+
+- **HackMIT** – Built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.  
 
 - **Hoya Hacks** – Built an AI-powered Virtual Admissions Bot using Python, LangChain, and React.
 
