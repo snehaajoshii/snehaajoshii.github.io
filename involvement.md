@@ -8,21 +8,26 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 ## Organizations
 
-I’m actively involved in communities that support my growth in cybersecurity, leadership, and technology:
+### National / External Organizations
+- **WiCyS (Women in CyberSecurity)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference  
+- **ColorStack** – Active member supporting Black and Latinx students in tech  
+- **Rewriting the Code (RTC)** – Active member of this women-in-tech community; awarded a scholarship to attend Harvard WECode for two consecutive years  
+- **NSBE (National Society of Black Engineers)** – Member supporting Black excellence in engineering and technology  
 
-- **ColorStack** – Member focused on supporting Black and Latinx students in tech  
-- **Rewriting the Code (RTC)** – Women in Tech community  
-- **Association for Computing Machinery’s Council of Women (ACM-W)** – Secretary  
-- **National Society of Leadership and Success (NSLS)** – Member  
+### School / Campus Organizations
+
 - **Phi Eta Sigma Honors Society** – Honors scholar  
 - **Marymount University Cyber Club** – CTF competitor and active participant  
 - **Saints for Service Scholar & Global Scholar Programs** – Leadership and service recognition  
+ 
 
 ## Leadership
 
 - **Resident Assistant | Marymount University**  
   *Aug 2022 – May 2025*  
   Managed a floor of 40+ residents, increasing community satisfaction by 25%, resolving conflicts with a 95% success rate, and organizing high-attendance community events.
+
+- **National Society of Leadership and Success (NSLS)** – Vice President  
 
 - **Vice President | Virginia Collegiate Honors Council**  
   *Apr 2023 – Apr 2024*  
@@ -38,12 +43,14 @@ I’m actively involved in communities that support my growth in cybersecurity, 
 ## Volunteer Work
 
 - **Admin Volunteer | Culpepper Garden**  
-  *Mar 2022 – Present*  
+  *Mar 2022 – May 2025*  
   Teach computer and cybersecurity basics to elderly residents, assist with proposal writing, analyze data for reports, and design marketing materials.
 
 - **Volunteer Customer Service Representative | New Hope Housing**  
   *Sep 2021 – Mar 2022*  
   Supported visitors and residents, assisted with intake, and provided frontline community service.
+
+-Mentor and Tutor
 
 ## Research and Hackathons
 
@@ -52,6 +59,7 @@ I’m actively involved in communities that support my growth in cybersecurity, 
 
 - **Cybersecurity Researcher | Marymount University**  
   Conducted a study analyzing 200+ data breaches using Tableau and presented findings to 150 attendees.
+  presented at the marymount annual researtch conference and slected to presebr at the virgibiia council researvh conference
 
 - **Generative AI Researcher**  
   Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions; presented at the Virginia Honors Conference.
@@ -60,11 +68,10 @@ I’m actively involved in communities that support my growth in cybersecurity, 
   Competed in statewide and national cybersecurity competitions, earning 7th place at CyberFusion and excelling in cryptography and web exploitation.
 
 - **Hackathons (Short Highlights)**  
-  - **HackMIT** – Co-built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.  
-  - **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.  
-  - **HackUTA** – 3rd place winner for a full-stack solution addressing food waste.  
+  - **HackMIT** – built *MedLingua*, a tool simplifying clinical notes using ML and interactive visualizations.  
+  - **Technica** – Part of *SentiShelter* team, winning **1st place** in Fannie Mae’s Climate Sentiment Challenge and **2nd place** for Best AI-Powered Solution.    
   - **Hoya Hacks** – Built an AI-powered Virtual Admissions Bot using Python, LangChain, and React.  
-  - **Black Wing Hacks** – Competed in DEI-focused challenge sponsored by Fidelity.  
+  - **Black Wing Hacks** – Competed in a challenge sponsored by Fidelity.  
 
 ## Programs
 
@@ -89,8 +96,9 @@ I’m actively involved in communities that support my growth in cybersecurity, 
 - **Ray Greenly Scholar – National Retail Federation**  
 - **Saints for Service Scholar**  
 - **Global Scholar Award Recipient**  
-- **2023 Student Award of Merit – Marymount University SGA**  
-
+- **2023 Student Award of Merit – Marymount University **
+- Bishop Ireton Award: the highest award from marymount university for one person in teh graduating class
+- The best Resident assistant of the year
 ---
 
 # Why These Experiences Matter
