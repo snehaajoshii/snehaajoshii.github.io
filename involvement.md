@@ -8,13 +8,13 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 ## Organizations
 
-### National / External Organizations
-- **WiCyS (Women in CyberSecurity)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference  
+### National Organizations
+- **Women in CyberSecurity(WiCyS)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference  
 - **ColorStack** – Active member supporting Black and Latinx students in tech  
 - **Rewriting the Code (RTC)** – Active member of this women-in-tech community; awarded a scholarship to attend Harvard WECode for two consecutive years  
 - **NSBE (National Society of Black Engineers)** – Member supporting Black excellence in engineering and technology  
 
-### School / Campus Organizations
+### Campus Organizations
 
 - **Phi Eta Sigma Honors Society** – Honors scholar  
 - **Marymount University Cyber Club** – CTF competitor and active participant  
