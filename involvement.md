@@ -91,12 +91,13 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 ## Scholarships and Recognitions
 
-- **Ray Greenly Scholar – National Retail Federation**  
-- **Saints for Service Scholar**  
-- **Global Scholar Award Recipient**  
-- **2023 Student Award of Merit – Marymount University**  
-- **Bishop Ireton Award – Graduating Class of 2025**  
-- **2023 Best Resident Assistant of the Year**
+- Ray Greenly Scholar – National Retail Federation  
+- Saints for Service Scholar  
+- Global Scholar Award Recipient  
+- 2023 Student Award of Merit – Marymount University  
+- Bishop Ireton Award – Graduating Class of 2025  
+- 2023 Best Resident Assistant of the Year
+
 
 ---
 
