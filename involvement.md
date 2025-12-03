@@ -12,7 +12,7 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Women in CyberSecurity (WiCyS)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference   
 - **Rewriting the Code (RTC)** – Active member of this women-in-tech community; awarded a scholarship to attend Harvard WECode for two consecutive years  
 - **National Society of Black Engineers (NSBE)** – Member supporting Black excellence in engineering and technology
-- - **ColorStack** – Active member supporting Black and Latinx students in tech  
+- **ColorStack** – Active member supporting Black and Latinx students in tech  
 
 ### Campus Organizations
 - **Phi Eta Sigma Honors Society** – Honors scholar  
