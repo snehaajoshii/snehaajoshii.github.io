@@ -26,7 +26,7 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Resident Assistant | Marymount University**  
   Managed a floor of 40+ residents, increasing community satisfaction and resolving conflicts effectively. Awarded **Best RA of the Building in 2023** for mentorship and organizing high-attendance community events.
 
-- ** Vice President|National Society of Leadership and Success (NSLS)**  
+- **Vice President | National Society of Leadership and Success (NSLS)**  
   Cofounded the chapter, initiated members, and led events to build community and leadership opportunities. Directed programming to foster professional growth and engagement among members.
 
 - **Vice President | Virginia Collegiate Honors Council**  
