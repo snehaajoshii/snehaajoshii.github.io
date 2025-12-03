@@ -2,45 +2,43 @@
 layout: archive
 title: About
 permalink: /about/
-author: Meron Woldesenbet
+author: Blen Begashaw
 author_profile: true
 ---
 
-# Hi, I'm Meron Woldesenbet
-I'm a Computer Science major with a Math minor, graduating in December 2025. Outside of coding, I love playing games, reading, and writing, they help me stay creative and balanced.
+# Hi, I'm Blen Begashaw
+I graduated from Marymount University in May 2025 with a degree in Computer Science (Honors). I’m passionate about cybersecurity, secure software engineering, and solving problems that make technology safer, smarter, and more reliable.
 
-I'm currently looking for full-time/new grad opportunities in Software Engineering. I’m passionate about working on projects where I can see the real impact I have on people's lives. I also enjoy learning about infrastructure and diving into the customer experience side of products. My ideal role would combine:
-- Hands-on software development
-- Product strategy and innovation
-- Collaborative problem-solving
-- Social impact through technology
- 
-This summer (2025), I'm working as a Software Engineering Intern at Microsoft on the Security Management team, where I’m gaining valuable experience building secure, customer-focused solutions.
+I love building secure systems, analyzing threats, and designing solutions that strengthen user trust. I’m currently seeking **full-time opportunities** in Software Engineering or Cybersecurity Engineering, where I can work on impactful, security-focused products and continue growing as an engineer.
 
+My ideal role includes:
+- Hands-on secure software development  
+- Threat detection & anomaly analysis  
+- API development with strong encryption  
+- Collaborative problem-solving with real-world impact  
 
-Thank you for visiting my portfolio website, and I look forward to engaging in meaningful conversations!
+Outside of tech, I enjoy learning, exploring new tools, and staying active in communities that challenge me to grow.
 
+Thank you for visiting my portfolio — I look forward to connecting!
 
+---
 
 ## My Skills
 
-**Languages**: Python, Java, C, C#, HTML/CSS, JavaScript, TypeScript, SQL  
+**Languages**: Python, Java, R, SQL, HTML/CSS, JavaScript, PHP  
 
+**Security Tools/Concepts**: OWASP Top 10, AES/RSA Encryption, Secure Coding Practices, Threat Modeling, RBAC, Wireshark, Nmap, Kali Linux, Splunk, Nagios  
 
-**Frameworks/Tools**: Git, React, MongoDB, Azure, Docker, AWS, Microsoft Project
+**Technical Skills**: Threat Detection, Secure API Development, Anomaly Detection, UAT, Automation, Large-scale Data Analysis, Problem-Solving, Critical Thinking, Leadership, Teamwork, Customer Service  
 
-
-
-### Technical
-Data Analysis, Decision Analysis, Project Planning, Database Management, Task Management, Time
-Management, Problem-Solving, Critical thinking, Leadership, Teamwork, Client management and Customer Service
-
+---
 
 ## Certifications & Achievements
 
-- AWS Certified Cloud Practitioner  
 - Microsoft Cybersecurity Analyst Certification  
+- AWS Certified Cloud Practitioner  
 - Google Project Management Certification  
-- Codecademy Product Management Certification  
-- Microsoft Fundamentals of Machine Learning  
-- HackUTA 2023 – 3rd Place Winner
+- HackTechnica Winner — SentiShelter  
+- 2 Years CTF Competitor  
+
+
