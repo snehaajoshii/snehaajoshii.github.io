@@ -9,14 +9,14 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 ## Organizations
 
 ### National Organizations
-- **Women in CyberSecurity (WiCyS)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference  
-- **ColorStack** – Active member supporting Black and Latinx students in tech  
+- **Women in CyberSecurity (WiCyS)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference   
 - **Rewriting the Code (RTC)** – Active member of this women-in-tech community; awarded a scholarship to attend Harvard WECode for two consecutive years  
-- **National Society of Black Engineers (NSBE)** – Member supporting Black excellence in engineering and technology  
+- **National Society of Black Engineers (NSBE)** – Member supporting Black excellence in engineering and technology
+- - **ColorStack** – Active member supporting Black and Latinx students in tech  
 
 ### Campus Organizations
 - **Phi Eta Sigma Honors Society** – Honors scholar  
-- **Marymount University Cyber Club** – CTF competitor and active participant  
+- **Cyber Club** – CTF competitor and active participant  
 - **Saints for Service Scholar & Global Scholar Programs** – Leadership and service recognition  
 
 ## Leadership
@@ -33,8 +33,8 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Secretary | ACM-W (Association for Computing Machinery’s Council of Women)**  
   Organized gender-diversity and mentorship-focused events in tech while maintaining detailed documentation. Engaged professionals to provide networking and learning opportunities for students.
 
-- **Secretary | Student Government Association**  
-  Served one year as Senator and one year as Secretary, proposing and implementing changes to the financial aid package. Maintained records, coordinated elections, managed communication, and supported campus-wide initiatives.
+-**Secretary | Student Government Association**
+Served two years—one year as a Senator, proposing and implementing changes to the financial aid package, and one year as Secretary, maintaining records, coordinating elections, managing communication, and supporting campus-wide initiatives.
 
 ## Volunteer Work
 
@@ -56,7 +56,7 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
   Conducted a study analyzing 200+ data breaches using Tableau and presented findings to 150 attendees at the Marymount Annual Research Conference; also selected to present at the Virginia Collegiate Honors Research Conference.
 
 - **Generative AI Researcher**  
-  Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions and presented findings at the Virginia Honors Conference.
+  Compared code-generation performance of ChatGPT vs. Kodezi across 30 Python functions and presented findings at the Virginia collegiate honors conference.
 
 ## Hackathons and CTFs
 
@@ -91,11 +91,11 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 
 ## Scholarships and Recognitions
 
-- Ray Greenly Scholar – National Retail Federation  
+- Ray Greenly Scholar – National Retail Federation
+- - 2023 Student Award of Merit – Marymount University  
+- Bishop Ireton Award – Graduating Class of 2025   
 - Saints for Service Scholar  
 - Global Scholar Award Recipient  
-- 2023 Student Award of Merit – Marymount University  
-- Bishop Ireton Award – Graduating Class of 2025  
 - 2023 Best Resident Assistant of the Year
 
 
