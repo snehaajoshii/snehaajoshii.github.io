@@ -12,7 +12,7 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 - **Women in CyberSecurity(WiCyS)** – Awarded a competitive scholarship to attend and present my IoMT cybersecurity research at the 2025 WiCyS Conference  
 - **ColorStack** – Active member supporting Black and Latinx students in tech  
 - **Rewriting the Code (RTC)** – Active member of this women-in-tech community; awarded a scholarship to attend Harvard WECode for two consecutive years  
-- **NSBE (National Society of Black Engineers)** – Member supporting Black excellence in engineering and technology  
+- **National Society of Black Engineers(NSBE)** – Member supporting Black excellence in engineering and technology  
 
 ### Campus Organizations
 
@@ -24,21 +24,20 @@ Beyond academics, I’ve had the opportunity to participate in impactful program
 ## Leadership
 
 - **Resident Assistant | Marymount University**  
-  *Aug 2022 – May 2025*  
-  Managed a floor of 40+ residents, increasing community satisfaction by 25%, resolving conflicts with a 95% success rate, and organizing high-attendance community events.
+  Managed a floor of 40+ residents, increasing community satisfaction and resolving conflicts effectively. Awarded **Best RA of the Building in 2023** for mentorship and organizing high-attendance community events.
 
-- **National Society of Leadership and Success (NSLS)** – Vice President  
+- **National Society of Leadership and Success (NSLS) – Vice President**  
+  Cofounded the chapter, initiated members, and led events to build community and leadership opportunities. Directed programming to foster professional growth and engagement among members.
 
 - **Vice President | Virginia Collegiate Honors Council**  
-  *Apr 2023 – Apr 2024*  
-  Led statewide honors programming, delivered opening conference remarks, facilitated student panels, and presented research on Generative AI.
+  Led statewide honors programming, delivered conference remarks, facilitated student panels, and presented research for two years. Worked with the executive board and professors on marketing, funding strategy, and organizing the research conference.
 
 - **Secretary | ACM-W (Association for Computing Machinery’s Council of Women)**  
-  Organized gender-diversity events in tech and maintained documentation for the organization.
+  Organized gender-diversity and mentorship-focused events in tech while maintaining detailed documentation. Engaged professionals to provide networking and learning opportunities for students.
 
 - **Secretary | Student Government Association**  
-  *Sep 2021 – May 2023*  
-  Maintained official SGA records, managed communication, coordinated elections, and supported campus-wide student initiatives.
+  Served one year as Senator and one year as Secretary, proposing and implementing changes to the financial aid package. Maintained records, coordinated elections, managed communication, and supported campus-wide initiatives.
+
 
 ## Volunteer Work
 
