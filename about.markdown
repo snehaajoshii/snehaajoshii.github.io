@@ -25,7 +25,7 @@ Thank you for visiting my portfolio — I look forward to connecting!
 
 ## My Skills
 
-**Languages**: Python, Java, R, SQL, HTML/CSS, JavaScript, PHP  
+**Languages**: Python, Java, R, SQL, HTML/CSS, JavaScript
 
 **Security Tools/Concepts**: OWASP Top 10, AES/RSA Encryption, Secure Coding Practices, Threat Modeling, RBAC, Wireshark, Nmap, Kali Linux, Splunk, Nagios  
 
