@@ -19,9 +19,7 @@ body_class: sentishelter-page   # <--- add this
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
 
 [Live Website](https://blenwbegashaw.github.io/sentishelter/)  
-
 [Chatbot](https://huggingface.co/spaces/blenbegashaw/sentishelter-chatbots/)
-
 [Github Repo](https://github.com/BlenWBegashaw/sentishelter/)
 
 # Inspiration
