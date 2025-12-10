@@ -1,6 +1,7 @@
 ---
 layout: posts
-date: 2025-12-10 12:00:00 +0000
+title:  "SentiShelter"
+date: 2023-10-22 12:00:00 +0000
 categories:
   - work
 tags:
@@ -8,12 +9,10 @@ tags:
 description: Analyze Reddit discussions on climate change and housing.
 highlight_home: true
 header:
-header:
   overlay_image: /assets/images/sentilogo.png
-  caption: ""
-body_class: sentishelter-page   # <--- add this
+  teaser: /assets/images/sentilogo.png
+  caption: Web APP
 ---
-
 # SentiShelter
 
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
