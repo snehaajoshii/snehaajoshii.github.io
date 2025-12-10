@@ -1,12 +1,16 @@
 ---
 layout: posts
-title: "SentiShelter"      # This can stay for SEO, even if it's hidden
-body_class: sentishelter-page
+title: "SentiShelter"
+body_class: sentishelter-page   # THIS activates the CSS
 header:
   overlay_image: /assets/images/sentilogo.png
   teaser: /assets/images/sentilogo.png
   caption: ""
 ---
+<div class="header-logo">
+  <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
+</div>
+
 
 # SentiShelter
 
