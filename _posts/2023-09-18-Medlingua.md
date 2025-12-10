@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "MedLingua"
-date:   2024-08-16 19:27:22 +0000
+date:   2023-09-18 19:27:22 +0000
 categories: 
   - health
 tagline: "Bridging the Gap Between Doctor and Patient"
