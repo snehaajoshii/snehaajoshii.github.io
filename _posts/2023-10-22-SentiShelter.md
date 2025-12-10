@@ -7,13 +7,14 @@ categories:
 tagline: "Climate Change and Housing Sentiment Analysis"
 tags:
   - Data Science
-  - NLP
-  - Sentiment Analysis
 description: Analyze Reddit discussions on climate change and housing.
 highlight_home: true
 header:
-  overlay_image: /assets/images/sentilogo.png
-  caption: ""  # empty so logo shows without text overlay
+  overlay_image: /assets/images/sentilogo.png   # This is the header image/logo
+  teaser: /assets/images/sentilogo.png         # Thumbnail or post preview
+  caption: ""                                  # Empty so no text appears
+---
+> Data Science, NLP, Visualization
 ---
 
 # SentiShelter
