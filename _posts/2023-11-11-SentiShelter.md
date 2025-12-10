@@ -19,6 +19,7 @@ I collaborated with 3 people for this project. As a group, we combined our skill
 
 [Live Website](https://blenwbegashaw.github.io/sentishelter/)  
 [Chatbot](https://huggingface.co/spaces/blenbegashaw/sentishelter-chatbots)
+[Github Repo](https://github.com/BlenWBegashaw/sentishelter)
 
 # Inspiration
 We created SentiShelter to help people understand how climate change conversations influence the housing market. From rising insurance rates to homes becoming less sustainable, we wanted to provide a tool that visualizes sentiment trends and highlights key topics and locations.
