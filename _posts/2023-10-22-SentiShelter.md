@@ -1,6 +1,5 @@
 ---
 layout: posts
-title: "SentiShelter"
 date: 2025-12-10 12:00:00 +0000
 categories:
   - work
