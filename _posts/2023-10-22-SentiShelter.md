@@ -1,12 +1,20 @@
 ---
 layout: posts
 title: "SentiShelter"
+date: 2023-10-22 12:00:00 +0000
+categories: 
+  - work
+tagline: ""
+tags:
+  - Datascience
+highlight_home: false
 body_class: sentishelter-page
 header:
   overlay_image: /assets/images/sentilogo.png
   teaser: /assets/images/sentilogo.png
   caption: ""
 ---
+
 
 <div class="header-logo">
   <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
