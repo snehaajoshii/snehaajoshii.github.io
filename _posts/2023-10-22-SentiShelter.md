@@ -1,18 +1,13 @@
 ---
 layout: posts
-title:  "SentiShelter"
-date: 2023-10-22 12:00:00 +0000
-categories:
-  - work
-tags:
-  - Data Science
-description: Analyze Reddit discussions on climate change and housing.
-highlight_home: true
+title: "SentiShelter"      # This can stay for SEO, even if it's hidden
+body_class: sentishelter-page
 header:
   overlay_image: /assets/images/sentilogo.png
   teaser: /assets/images/sentilogo.png
-  caption: Web APP
+  caption: ""
 ---
+
 # SentiShelter
 
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
