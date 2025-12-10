@@ -10,9 +10,9 @@ tags:
 description: Analyze Reddit discussions on climate change and housing.
 highlight_home: true
 header:
-
-teaser: https://blenwbegashaw.github.io/sentishelter/assets/logo-removebg.png
-caption: SentiShelter
+  overlay_image: /assets/images/sentilogo.png   # Your logo
+  teaser: /assets/images/sentilogo.png         # Thumbnail/featured image
+  caption: SentiShelter
 ---
 
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
