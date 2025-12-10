@@ -1,12 +1,13 @@
 ---
 layout: posts
 title: "SentiShelter"
-body_class: sentishelter-page   # THIS activates the CSS
+body_class: sentishelter-page
 header:
   overlay_image: /assets/images/sentilogo.png
   teaser: /assets/images/sentilogo.png
   caption: ""
 ---
+
 <div class="header-logo">
   <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
 </div>
