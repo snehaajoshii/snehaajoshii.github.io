@@ -9,11 +9,8 @@ tags:
 description: Analyze Reddit discussions on climate change and housing.
 highlight_home: true
 header:
-  overlay_image: /assets/images/sentilogo.png   # your logo will be used in header
-  teaser: /assets/images/sentilogo.png
   caption: ""                                   # empty removes text
 ---
-
 <!-- Logo on top of gray header -->
 <div class="header-logo">
   <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
