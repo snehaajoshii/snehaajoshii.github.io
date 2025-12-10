@@ -46,9 +46,15 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 - **Website:** Responsive HTML/CSS/JS site with integrated Hugging Face chatbot  
 
 ### Example Visualizations
-- Monthly average sentiment trends  (pic)
-- Top mentioned persons and locations  (pic)
-- Topic cluster analysis  
+
+- **Monthly average sentiment trends**  
+  ![Monthly Sentiment Trends](/assets/images/kaggle1.png)
+
+- **Top mentioned persons and locations**  
+  ![Top Entities](/assets/images/kaggle2.png)
+
+- **Topic cluster analysis**  
+  ![Topic Clusters](/assets/images/kaggle3.png)
 
 # Challenges we ran into
 - **Large Dataset:** Required sampling to maintain performance without losing insights  
