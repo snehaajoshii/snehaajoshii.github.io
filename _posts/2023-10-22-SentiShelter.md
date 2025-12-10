@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "SentiShelter"
-date: 2025-12-10 12:00:00 +0000
+date: 2023-10-22 12:00:00 +0000
 categories:
   - work
 tagline: "Climate Change and Housing Sentiment Analysis"
@@ -12,7 +12,8 @@ tags:
 description: Analyze Reddit discussions on climate change and housing.
 highlight_home: true
 header:
-  teaser: /assets/images/sentilogo.png
+  overlay_image: /assets/images/sentilogo.png
+  caption: ""  # empty so logo shows without text overlay
 ---
 
 ![SentiShelter Logo](/assets/images/sentilogo.png)
