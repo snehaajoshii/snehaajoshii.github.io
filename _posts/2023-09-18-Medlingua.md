@@ -1,21 +1,20 @@
 ---
 layout: posts
-title:  "MedLingua"
-date:   2023-09-18 19:27:22 +0000
-categories: 
+title: "MedLingua"
+date: 2023-09-18 19:27:22 +0000
+categories:
   - health
 tagline: "Bridging the Gap Between Doctor and Patient"
 tags:
-  - Data Science
-  - Healthcare
   - Machine Learning
 description: Medical data explanation and visualization platform
 highlight_home: false
 header:
- overlay_image: https://images.unsplash.com/photo-1584982751601-97dcc096659c?q=80&w=2070&auto=format&fit=crop
- teaser: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2070&auto=format&fit=crop
- caption: 
+  overlay_image: https://images.unsplash.com/photo-1584982751601-97dcc096659c?q=80&w=2070&auto=format&fit=crop
+  teaser: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2070&auto=format&fit=crop
+  caption: ""
 ---
+
 
 MedLingua was created to bridge the communication gap between doctors and patients by transforming complex medical data into clear, patient-friendly insights.
 
