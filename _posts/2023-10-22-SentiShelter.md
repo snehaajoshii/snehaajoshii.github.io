@@ -4,7 +4,6 @@ title: "SentiShelter"
 date: 2023-10-22 12:00:00 +0000
 categories:
   - work
-tagline: "Climate Change and Housing Sentiment Analysis"
 tags:
   - Data Science
 description: Analyze Reddit discussions on climate change and housing.
@@ -13,8 +12,6 @@ header:
   overlay_image: /assets/images/sentilogo.png   # This is the header image/logo
   teaser: /assets/images/sentilogo.png         # Thumbnail or post preview
   caption: ""                                  # Empty so no text appears
----
-> Data Science, NLP, Visualization
 ---
 
 # SentiShelter
