@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "SentiShelter"
+title: ""
 date: 2023-10-22 12:00:00 +0000
 categories:
   - work
