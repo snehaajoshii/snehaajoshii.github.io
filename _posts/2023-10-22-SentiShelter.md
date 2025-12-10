@@ -13,7 +13,6 @@ header:
   teaser: /assets/images/sentilogo.png         # Thumbnail or post preview
   caption: ""                                  # Empty so no text appears
 ---
-
 # SentiShelter
 
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
