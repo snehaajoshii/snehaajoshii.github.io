@@ -47,11 +47,11 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 
 ### Sample Kaggle Data Science Work
 
-- **Average Sentiment Analaysis per month**  
-  ![Top Entities](/assets/images/kaggle2.png)
-
 - **Cleaning the Dataset** 
   ![Topic Clusters](/assets/images/kaggle4.png)
+  
+- **Average Sentiment Analaysis per month**  
+  ![Top Entities](/assets/images/kaggle2.png)
 
 # Challenges we ran into
 - **Large Dataset:** Required sampling to maintain performance without losing insights  
