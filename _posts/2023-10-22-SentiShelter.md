@@ -14,6 +14,11 @@ header:
   caption: ""                                   # empty removes text
 ---
 
+<!-- Logo on top of gray header -->
+<div class="header-logo">
+  <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
+</div>
+
 # SentiShelter
 
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
