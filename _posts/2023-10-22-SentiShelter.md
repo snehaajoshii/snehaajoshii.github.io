@@ -1,6 +1,5 @@
 ---
 layout: posts
-title: "SentiShelter"
 date: 2023-10-22 12:00:00 +0000
 categories: 
   - work
@@ -14,11 +13,6 @@ header:
   teaser: /assets/images/sentilogo.png
   caption: ""
 ---
-
-
-<div class="header-logo">
-  <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
-</div>
 
 
 # SentiShelter
