@@ -85,7 +85,7 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
   ![winning picture](/assets/images/winningpic.JPG)
   
 # What is next for SentiShelter
-- Add **more real-time sentiment tracking** as new data becomes available  
+- Add more real-time sentiment tracking as new data becomes available  
 - Expand chatbot capabilities to provide more detailed explanations of trends and insights  
 - Enhance topic clustering and sentiment analysis using advanced NLP models  
 
