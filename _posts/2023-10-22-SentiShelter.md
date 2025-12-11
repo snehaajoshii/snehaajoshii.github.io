@@ -58,6 +58,12 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 - **Average Sentiment Analaysis per month**  
   ![Top Entities](/assets/images/kaggle2.png)
 
+  # Key Features
+- Explore Reddit sentiment trends (2010-2022)  
+- Identify top entities (persons, locations) and their associated sentiment  
+- Interactive visualizations and data exploration  
+- Hugging Face chatbot integration for learning about climate and housing  
+
 # Challenges we ran into
 - **Large Dataset:** Required sampling to maintain performance without losing insights  
 - **Entity Analysis:** Identifying meaningful relationships between people, locations, and sentiment was complex  
@@ -71,18 +77,18 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 # What we learned
 - How to extract insights from large datasets using NLP  
 - How to visualize and present complex sentiment data interactively  
-- How to combine Python analysis with a responsive website  
+- How to combine Python analysis with a responsive website
 
+### Winner of Technica 2023
+
+- **My team and I won first place in the Fannie Mae "Climate Change Sentiment Analysis and Impacts on Housing" competition, and second place in the Bloomberg Industry Group "Best AI-Powered Solution" competition.** 
+  ![winning picture](/assets/images/winningpic.jpg)
+  
 # What is next for SentiShelter
 - Add **more real-time sentiment tracking** as new data becomes available  
 - Expand chatbot capabilities to provide more detailed explanations of trends and insights  
 - Enhance topic clustering and sentiment analysis using advanced NLP models  
 
-# Key Features
-- Explore Reddit sentiment trends (2010-2022)  
-- Identify top entities (persons, locations) and their associated sentiment  
-- Interactive visualizations and data exploration  
-- Hugging Face chatbot integration for learning about climate and housing  
 
 
 
