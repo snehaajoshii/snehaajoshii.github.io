@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "MedLingua"
 date: 2023-09-18 19:27:22 +0000
 categories: health
