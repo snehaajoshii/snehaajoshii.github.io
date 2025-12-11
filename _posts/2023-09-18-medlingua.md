@@ -14,7 +14,7 @@ header:
 ---
 
 <div class="header-logo">
-  <img src="/assets/images/medlingua1.png" alt="MedLingua Logo" height="60">
+  <img src="/assets/images/medlingua1.png" alt="MedLingua Logo" height="50">
 </div>
 
 
