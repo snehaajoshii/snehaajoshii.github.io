@@ -82,7 +82,7 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 ### Winner of Technica 2023
 
 - **My team and I won first place in the Fannie Mae "Climate Change Sentiment Analysis and Impacts on Housing" competition, and second place in the Bloomberg Industry Group "Best AI-Powered Solution" competition.** 
-  ![winning picture](/assets/images/winningpic.jpg)
+  ![winning picture](/assets/images/winningpic.JPG)
   
 # What is next for SentiShelter
 - Add **more real-time sentiment tracking** as new data becomes available  
