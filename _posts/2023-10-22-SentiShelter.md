@@ -70,9 +70,9 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 - **Visualization:** Presenting data clearly while maintaining an interactive user experience  
 
 # Accomplishments that we are proud of
-- Successfully combined **NLP, data visualization, and web development**  
-- Developed a **user-friendly website** with clear insights  
-- Integrated a **chatbot interface** for exploring climate change and housing discussions  
+- Successfully combined NLP, data visualization, and web development 
+- Developed a user-friendly website with clear insights  
+- Integrated a chatbot interface for exploring climate change and housing discussions  
 
 # What we learned
 - How to extract insights from large datasets using NLP  
