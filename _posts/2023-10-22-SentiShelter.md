@@ -8,7 +8,7 @@ tags:
   - Datascience
 highlight_home: false
 header:
-  teaser: /assets/images/sentilogo.png
+  overlay_image: /assets/images/sentilogo.png
   caption: ""
 ---
 
