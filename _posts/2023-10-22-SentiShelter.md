@@ -5,7 +5,7 @@ categories:
   - work
 tagline: ""
 tags:
-  - Datascience
+  - Data Science
 highlight_home: false
 body_class: sentishelter-page
 header:
