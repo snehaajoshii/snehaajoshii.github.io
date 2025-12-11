@@ -6,7 +6,7 @@ layout: home
 author: Blen Begashaw
 author_profile: true
 ---
-<img src="/assets/images/IMG_2177.JPG" alt="Blen Begashaw" style="border-radius: 50%; width: 200px; height: auto; float: left; margin-right: 20px;">
+<img src="/assets/images/blenpic.HEIC" alt="Blen Begashaw" style="border-radius: 50%; width: 200px; height: auto; float: left; margin-right: 20px;">
 
 <div style="clear: both;"></div>
 
