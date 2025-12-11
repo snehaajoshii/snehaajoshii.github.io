@@ -5,7 +5,7 @@ date: 2023-09-18 19:27:22 +0000
 categories: 
   - health
 tags:
-  - Machinelearning
+  - Data science
 highlight_home: false
 body_class: medlingua-page
 header:
