@@ -14,8 +14,9 @@ header:
 ---
 
 <div class="header-logo">
-  <img src="/assets/images/medlingua1.png" alt="MedLingua Logo">
+  <img src="/assets/images/medlingua1.png" alt="MedLingua Logo" height="40">
 </div>
+
 
 > FastAPI, SvelteKit, NLP, SQL, Data Visualization
 
