@@ -7,6 +7,7 @@ tagline: ""
 tags:
   - Datascience
 highlight_home: false
+body_class: sentishelter-page
 header:
   teaser: /assets/images/sentilogo.png
   caption: ""
