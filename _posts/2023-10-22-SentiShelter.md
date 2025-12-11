@@ -13,7 +13,7 @@ header:
   caption: ""
 ---
 <div class="header-logo">
-  <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo"height="80">
+  <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
 </div>
 
 > HTML, CSS, JavaScript, Python, SpaCy, Matplotlib, Seaborn, GitHub Pages, HuggingFace Spaces, Kaggle
