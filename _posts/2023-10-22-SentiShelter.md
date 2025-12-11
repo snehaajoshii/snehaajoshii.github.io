@@ -38,7 +38,7 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 
 ## Final Product
 
-<video width="800" height="450" controls poster="/BlenWBegashaw.github.io/assets/logo-removebg.png">
+<video width="800" height="450" controls poster="/assets/posterpic.png">
   <source src="/assets/New%20Recording%20-%2012_9_2025,%2010_09_35%20PM.mp4" type="video/mp4">
 </video>
 
