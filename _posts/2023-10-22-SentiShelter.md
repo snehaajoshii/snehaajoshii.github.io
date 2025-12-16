@@ -12,10 +12,6 @@ header:
   teaser: /assets/images/sentilogo.png
   caption: ""
 ---
-<div class="header-logo">
-  <img src="/assets/images/sentilogo.png" alt="SentiShelter Logo">
-</div>
-
 > HTML, CSS, JavaScript, Python, SpaCy, Matplotlib, Seaborn, GitHub Pages, HuggingFace Spaces, Kaggle
 
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
