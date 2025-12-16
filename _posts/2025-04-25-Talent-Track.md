@@ -1,3 +1,4 @@
+---
 layout: posts
 title: "Eduowl"
 date: 2023-09-25 19:27:22 +0000
@@ -12,7 +13,8 @@ body_class: eduowl-page
 header:
   teaser: /assets/images/eduowl1.png
   caption: ""
-Python, OpenAI API, LangChain, Web Scraping, NLP
+---
+> Python, OpenAI API, LangChain, Web Scraping, NLP
 
 Eduowl was created to simplify the university admissions journey by guiding students through the application process and helping them discover academic majors that align with their interests, strengths, and career goals.
 
