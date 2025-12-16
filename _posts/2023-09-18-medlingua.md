@@ -12,8 +12,6 @@ header:
   teaser: /assets/images/medlingua1.png
   caption: ""
 ---
-
-
 > FastAPI, SvelteKit, NLP, SQL, Data Visualization
 
 MedLingua was created to bridge the communication gap between doctors and patients by transforming complex medical data into clear, patient-friendly insights.
