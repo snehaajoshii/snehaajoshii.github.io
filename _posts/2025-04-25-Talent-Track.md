@@ -1,79 +1,77 @@
----
 layout: posts
-title: "Talent Track"
-date: 2025-04-25 10:00:00 +0000
-categories: 
+title: "Eduowl"
+date: 2023-09-25 19:27:22 +0000
+categories:
   - work
-tagline: "Simplifying recruitment for college soccer coaches"
 tags:
-  - Collaboration
-  - Fullstack
-description: A fullstack application that automates soccer recruitment by parsing player emails and organizing recruit data in one place.
-highlight_home: true
+  - AI
+  - NLP
+  - Education
+highlight_home: false
+body_class: eduowl-page
 header:
-  teaser: https://media1.thehungryjpeg.com/thumbs2/ori_3808969_3rfvd35fbfuaau2l9p351o4phtuv51t57v58e91k_monogram-tt-logo-design.jpg
-  caption: Talent Track Project
----
+  teaser: /assets/images/eduowl1.png
+  caption: ""
+Python, OpenAI API, LangChain, Web Scraping, NLP
 
+Eduowl was created to simplify the university admissions journey by guiding students through the application process and helping them discover academic majors that align with their interests, strengths, and career goals.
 
-Because coaches needed more soccer, less email chaos.
+[Github repository](https://github.com/BlenWBegashaw/EduOwl)
 
+## Inspiration
 
-[GitHub Repository](https://github.com/Meronats/TalentTrack)
+As a group of college students who vividly recall the complexities and uncertainties of the university admissions process, we found our collective inspiration. Our team of four, each from different majors and backgrounds, recognized a common challenge faced by high school graduates: the overwhelming task of choosing a major while navigating complex admissions requirements. Eduowl was created to turn this daunting pre-college experience into an empowering and streamlined journey, particularly for students applying to Rowan University.
 
+## What it does
 
-# About the Project
-Created Talent Track to help soccer coaches manage recruit emails in a more organized and efficient way. Coaches often receive dozens of emails a day from students, each formatted differently and hard to track. Our app makes the process smoother by automatically parsing emails and showing player information in a clean dashboard.
+Eduowl revolutionizes the university admissions process by offering two core capabilities:
 
----
+* **Admissions Guidance Chatbot:** An AI-driven chat interface that answers questions about Rowan University, including academics, admissions requirements, campus life, and student resources.
+* **Major Recommendation System:** Evaluates students’ interests, strengths, and career goals to recommend suitable academic majors.
+* **Interactive AI Conversations:** Provides engaging, real-time, context-aware responses.
+* **Data-Driven Advising:** Uses structured admissions data sourced directly from official university resources.
 
-## The Problem
+## How we built it
 
-- Current method is completely manual
-- Disorganized and hard to manage
-- Coaches can’t remotely access info
-- Potential recruits often fall through the cracks
+* **Backend:** Python
+* **Web Scraping:** BeautifulSoup, Requests
+* **PDF Processing:** PyPDF2
+* **AI & NLP:** OpenAI API
+* **Framework:** LangChain
+* **Conversation Memory:** ConversationBufferMemory
+* **Data Handling:** Text chunking and token estimation
 
----
+Building Eduowl began by gathering the latest admissions information from Rowan University’s official website. We implemented web scraping techniques to extract accurate and up-to-date admissions data, with a focus on international admissions requirements. To extend the chatbot’s knowledge base, we processed PDF documents using PyPDF2.
 
-## Solution
+The chatbot was powered by OpenAI’s language models and integrated using LangChain. ConversationBufferMemory enabled the bot to maintain context across interactions, resulting in coherent and relevant responses. Text chunking and token estimation were used to efficiently handle large volumes of scraped and document-based content.
 
-- Create an automated recruiting application
-- Parse recruit emails using AI
-- Store player data in a structured database
-- Build an easy-to-use interface for coaches
+## Final Product
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wpuzgG5y8CA" frameborder="0" allowfullscreen></iframe>
+</div>
 
----
+## Challenges we ran into
 
-## Tech Stack
-- **Frontend**: React  
-- **Backend**: Python, Flask  
-- **Database**: PostgreSQL  
-- **Parsing & AI**: GPT-3.5 Turbo  
-- **Cloud**: AWS  
-- **Containerization**: Docker  
+* Persistent errors when attempting to integrate JSON data into Azure AI Studio
+* Handling large volumes of scraped and PDF-based data
+* Maintaining response accuracy and contextual relevance
 
----
+## Accomplishments
 
-## Application Flow
+* Built a functional AI-powered admissions chatbot
+* Designed a form-based major recommendation feature
+* Successfully pivoted from Azure AI Studio to the OpenAI API
+* Delivered a student-focused solution addressing real admissions challenges
 
-1. 📩 **Email is forwarded to TalentTrack inbox**  
-   ↳ The coach forwards recruit emails to a dedicated inbox.
+## What we learned
 
-2. 🛠️ **Inbox is parsed every 24 hours**  
-   ↳ Our backend checks the inbox and extracts relevant info (GPA, grad year, position, etc.).
+* How to build conversational AI using OpenAI and LangChain
+* How to scrape, structure, and process real-world admissions data
+* The importance of adaptability when encountering technical roadblocks
 
-3. 🗃️ **Parsed data is stored in a database**  
-   ↳ The extracted details are saved securely in PostgreSQL.
+## What is next for Eduowl
 
-4. 🖥️ **View player dashboard in user interface**  
-   ↳ The coach can log into the app and view/update player info through a simple React-based UI.
-
----
-
-## What I Learned
-This project helped me grow in both frontend and backend development. I gained hands-on experience working with email parsing, AI integration, cloud deployment, and teamwork under deadlines. 
----
-
-## Impact
-Talent Track helps coaches focus more on making the right recruiting decisions instead of drowning in unorganized emails. It brings clarity, automation, and structure to a process that really needed it.
+* Expand major recommendations across additional academic disciplines
+* Integrate Microsoft Azure to enhance AI capabilities
+* Improve chatbot memory, intelligence, and response accuracy
+* Add academic advising and writing assistance features
