@@ -55,7 +55,7 @@ The IoMT Anomaly Detection Dashboard offers a suite of tools for real-time monit
 
 
 
-### Technical Highlights
+### Architecture
 
 - **Architecture** ![Architecture](/assets/images/IOMT2.png)
   
