@@ -47,7 +47,7 @@ The IoMT Anomaly Detection Dashboard offers a suite of tools for real-time monit
   });
 </script>
 
-# How we built it
+# How I built it
 - **Data Source:** IoMT.csv dataset containing labeled network traffic patterns.
 - **Machine Learning:** Developed using Python and Scikit-learn, focusing on Random Forest and SVM classifiers for high-accuracy threat detection.
 - **Dashboard:** Built with Streamlit to create an interactive, web-based UI that handles live data processing.
@@ -60,30 +60,25 @@ The IoMT Anomaly Detection Dashboard offers a suite of tools for real-time monit
  ![Architecture](/assets/images/IOMT2.png)
   
 
-# Challenges we ran into
+# Challenges I ran into
 - **Real-time Performance:** Ensuring the dashboard could process and visualize data points rapidly without lag.
 - **Model Accuracy:** Tuning the SVM model to minimize false positives, which are critical in a healthcare setting to avoid "alert fatigue."
 - **Data Structuring:** Handling the specific feature requirements of medical IoT devices while maintaining a clean preprocessing pipeline.
 
-# Accomplishments that we are proud of
+# Accomplishments that I am proud of
 - Successfully integrated two distinct ML models into a single, cohesive dashboard.
 - Developed a functional logging system that records threats automatically.
 - Created a tool that bridges the gap between complex machine learning research and practical cybersecurity application.
 
-# What we learned
+# What I learned
 - How to deploy machine learning models into a live Streamlit environment.
 - The specific characteristics of IoMT network traffic and how they differ from standard IT environments.
 - Advanced visualization techniques for displaying model evaluation metrics like confusion matrices in real-time.
 
 # What is next for IoMT Dashboard
 - Integrate the FastAPI backend to support remote data ingestion from actual medical devices.
-- Implement deep learning models (like LSTMs) to better detect time-series based attack patterns.
+- Implement deep learning models to better detect time-series based attack patterns.
 - Add an automated alert system that sends notifications via email or SMS when high-severity threats are detected.
-
----
-
-## Impact
-The CS Portfolio Hosting Application provided a scalable, secure, and cost-effective system for hosting and managing student portfolios. It allowed faculty to easily review accreditation materials while giving students a simple, professional way to share their work publicly through Google Sites.
 
 ---
 
