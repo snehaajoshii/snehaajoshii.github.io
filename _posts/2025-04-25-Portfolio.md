@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "MedSecure Dashboard"
+title: "IOMT Anomaly Detection Dashboard"
 date: 2025-05-10 12:00:00 +0000
 categories:
   - work
