@@ -11,7 +11,7 @@ tags:
 highlight_home: false
 body_class: iomt-page
 header:
-  teaser: /assets/images/IOMT3.jpg
+  teaser: /assets/images/IOMT3.png
   caption: ""
 ---
 > Python, Streamlit, Scikit-learn, Random Forest, SVM, FastAPI, Matplotlib, Joblib, Pandas
