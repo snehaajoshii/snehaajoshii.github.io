@@ -32,15 +32,20 @@ The IoMT Anomaly Detection Dashboard offers a suite of tools for real-time monit
 - **Automated Logging:** Maintains a `detection_log.csv` of all predictions for post-incident analysis and performance auditing.
 
 
-
-## Final Product
-
+## Demo
 <div class="video-container">
-    <video width="800" height="450" controls>
+    <video id="iomt-video" width="800" height="450" controls>
       <source src="/assets/IOMT.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </div>
+
+<script>
+  const video = document.getElementById('iomt-video');
+  video.addEventListener('loadedmetadata', () => {
+    video.currentTime = 16; // start at 16 seconds
+  });
+</script>
 
 # How we built it
 - **Data Source:** IoMT.csv dataset containing labeled network traffic patterns.
