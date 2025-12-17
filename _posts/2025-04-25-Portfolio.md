@@ -43,7 +43,7 @@ The IoMT Anomaly Detection Dashboard offers a suite of tools for real-time monit
 <script>
   const video = document.getElementById('iomt-video');
   video.addEventListener('loadedmetadata', () => {
-    video.currentTime = 16; // start at 16 seconds
+    video.currentTime = 17; // start at 16 seconds
   });
 </script>
 
