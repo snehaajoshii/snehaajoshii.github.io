@@ -8,7 +8,7 @@ main:
     url: "/involvement"
   - title: "Work"
     url: "/professionalexperience"
-  - title: "About Me"
+  - title: "Resume"
     url: "/about"
 
   
