@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Professional Experience
+title: Experiences
 permalink: /professionalexperience/
 author_profile: true
 nav_exclude: false
