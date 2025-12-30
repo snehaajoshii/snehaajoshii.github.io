@@ -1,6 +1,6 @@
 ---
 layout: categories_work
-title: "My Work"
+title: "Projects"
 author: Blen Begashaw
 author_profile: true
 ---
