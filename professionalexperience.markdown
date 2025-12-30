@@ -1,9 +1,10 @@
 ---
-layout:default
+layout: default
 title: Experience
 permalink: /professionalexperience/
 author_profile: true
 ---
+
 This page provides an overview of my professional journey as a Software and Network Engineer. My work spans across building secure API infrastructures, automating network monitoring, and implementing enterprise-grade security protocols to protect sensitive data and improve organizational efficiency.
 
 ## Audacy (Sep 2024 – Dec 2024)
