@@ -14,7 +14,7 @@ This page provides an overview of my professional journey as a Software and Netw
   <span class="timeline-date">Sep 2024 – Dec 2024</span>
   <h3>Software Engineer Intern</h3>
   <h4>Audacy</h4>
-  <span class="timeline-location">Location: [Insert location here]</span>
+  <span class="timeline-location">Location: [Washington, D.C,USA]</span>
   <ul>
     <li><strong>API Development:</strong> Built RESTful APIs for 10+ stations, implementing data encryption that increased real-time synchronization and broadcast reliability by 20%.</li>
     <li><strong>Secure Scheduling:</strong> Developed a secure, encrypted Python-based scheduling platform and conducted rigorous code reviews to prevent vulnerabilities, cutting manual workload by 50%.</li>
@@ -27,7 +27,7 @@ This page provides an overview of my professional journey as a Software and Netw
   <span class="timeline-date">May 2024 – Aug 2024</span>
   <h3>Network Engineer Intern</h3>
   <h4>Cisco Meraki</h4>
-  <span class="timeline-location">Location: [Insert location here]</span>
+  <span class="timeline-location">Location: [San Francisco,USA]</span>
   <ul>
     <li><strong>AI Automation:</strong> Engineered a Flask-based bot with NLP for secure case matching, improving resolution efficiency by 35% and identifying system anomalies.</li>
     <li><strong>Incident Response:</strong> Investigated 10+ weekly security incidents, effectively mitigating XSS, insecure APIs, and firewall misconfigurations.</li>
@@ -40,7 +40,7 @@ This page provides an overview of my professional journey as a Software and Netw
   <span class="timeline-date">June 2023 – May 2024</span>
   <h3>Application Service Intern</h3>
   <h4>Catholic Diocese of Arlington</h4>
-  <span class="timeline-location">Location: [Insert location here]</span>
+  <span class="timeline-location">Location: [Arlington,USA]</span>
   <ul>
     <li><strong>Web Security:</strong> Programmed a registration portal for 90 parishes featuring Python-encrypted authentication and OWASP Top 10 protections.</li>
     <li><strong>Project Management:</strong> Managed 7 projects focused on secure documentation, reducing completion time by 25% through optimized digital workflows.</li>
@@ -53,7 +53,7 @@ This page provides an overview of my professional journey as a Software and Netw
   <span class="timeline-date">May 2023 – Aug 2023</span>
   <h3>IT Solutions Consultant</h3>
   <h4>902 Youth</h4>
-  <span class="timeline-location">Location: [Insert location here]</span>
+  <span class="timeline-location">Location: [Remote,USA]</span>
   <ul>
     <li><strong>Threat Hunting:</strong> Utilized internal system logs and OSINT tools to identify vulnerabilities and implement enforcement strategies to mitigate harm.</li>
     <li><strong>Vulnerability Management:</strong> Secured the company website by fixing 15+ vulnerabilities detected with Nmap and Nikto, reducing overall threat exposure by 40%.</li>
