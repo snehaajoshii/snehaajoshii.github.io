@@ -60,7 +60,7 @@ DramaBuddy provides tools to help users manage their drama experience:
   <img src="/assets/images/13.png" width="200" />
 </div>
 
-<div style="display: flex; gap: 24px; flex-wrap: wrap; margin: 24px 0;">
+
 
 
 # Product & Design Focus
