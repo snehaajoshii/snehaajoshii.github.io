@@ -22,8 +22,6 @@ author_profile: true
 
 ---
 
-You can download a copy below.
-
 <div style="margin: 1.5rem 0;">
   <a href="/assets/resume/Blen_Begashaw_Resume.pdf"
      class="btn btn--primary"
