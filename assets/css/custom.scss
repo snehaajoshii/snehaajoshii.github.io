@@ -27,36 +27,61 @@
   max-height: 60px;        /* size of your thin rectangular logo */
   z-index: 10;
 }
-/* Timeline Styles */
+/* ===== Timeline Container ===== */
 .timeline {
   position: relative;
   margin: 2rem 0;
-  padding-left: 2rem;
-  border-left: 3px solid #1a3b70; /* dark blue vertical line */
 }
 
+/* ===== Timeline Item ===== */
 .timeline-item {
+  display: flex;
   position: relative;
-  margin-bottom: 2.5rem;
-  padding-left: 1.5rem; /* text offset from line */
+  padding-bottom: 2.5rem;
 }
 
+/* Vertical line */
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: -9px; /* directly on the line */
-  top: 0.3rem; /* align with first line of content */
+  left: 20px;               /* center of the dot */
+  top: 20px;
+  width: 2px;
+  height: 100%;
+  background: #1a3b70;      /* dark blue */
+  z-index: 0;
+}
+
+/* ===== Timeline Icon (Dot) ===== */
+.timeline-icon {
+  position: relative;
+  flex: 0 0 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.timeline-icon::before {
+  content: "";
+  margin-top: 20px;
   width: 16px;
   height: 16px;
   background-color: #1a3b70; /* dark blue dot */
   border-radius: 50%;
-  border: 2px solid white;
+  z-index: 1;
 }
 
+/* ===== Timeline Content ===== */
+.timeline-content {
+  flex: 1 1 auto;
+  padding-left: 1rem;
+  max-width: 100%;
+}
+
+/* ===== Text Styling ===== */
 .timeline-date {
-  font-weight: bold;
+  font-weight: 600;
   color: #1a3b70;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.25rem;
   display: block;
 }
 
@@ -67,27 +92,25 @@
   display: block;
 }
 
-/* Bullet points styling */
-.timeline-item ul {
-  margin: 0.5rem 0 0.5rem 0;
-  padding-left: 1.5rem;
+.timeline-content h3 {
+  margin: 0;
+}
+
+.timeline-content h4 {
+  margin: 0.2rem 0 0.5rem 0;
+  font-weight: 500;
+}
+
+/* ===== Bullet Points (Full Width) ===== */
+.timeline-content ul {
+  margin: 0.5rem 0 0;
+  padding-left: 1.2rem;
   list-style-position: outside;
 }
 
-.timeline-item ul li {
-  display: block;
-  width: 100%; /* full width for bullets */
+.timeline-content li {
+  width: 100%;
+  line-height: 1.6;
   margin-bottom: 0.5rem;
-  line-height: 1.5;
   word-break: break-word;
 }
-
-/* Optional hover effect */
-.timeline-item:hover {
-  background-color: #f7f9fc;
-  padding: 0.5rem 1rem;
-  border-radius: 5px;
-  transition: background-color 0.2s ease;
-}
-
-
