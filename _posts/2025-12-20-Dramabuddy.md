@@ -1,23 +1,21 @@
 ---
 layout: posts
-title: "DramaBuddy: A K-Drama Tracking & Discovery App"
+title: "DramaBuddy"
 date: 2025-12-20 10:00:00 +0000
 categories: 
   - work
 tagline: "A modern companion for tracking and discovering Korean dramas"
 tags:
-  - Mobile
-  - Flutter
-  - iOS
-  - Product Design
+  - Mobile Development
+  - Full-Stack
 description: DramaBuddy is a mobile application designed to help users track Korean dramas, manage watch progress, and discover new content in a clean, intuitive interface.
 highlight_home: true
 header:
   teaser: /assets/13.png
   caption: Drama Tracking App
 ---
+< Flutter, Dart, TMDb API, WebView, URL Launcher, SharedPreferences, Git, GitHub
 
-A thoughtfully designed mobile app focused on organization, discovery, and reflection for Korean drama viewers.
 
 # Overview
 DramaBuddy is a K-Drama tracking and discovery application built with a strong focus on clarity, usability, and mobile-first design. The app allows users to manage their watchlist, track viewing progress, and explore new content through structured metadata and social-inspired discovery.
