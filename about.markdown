@@ -11,7 +11,7 @@ author_profile: true
 <br><br>
 
 <img 
-  src="{{ '/assets/resume/Blen_Begashaw_Resume.png' | relative_url }}"
+  src="{{ '/assets/resume/Blen _Begashaw_Resume_Graduted.png' | relative_url }}"
   alt="Blen Begashaw Resume"
   style="
     width: 100%;
