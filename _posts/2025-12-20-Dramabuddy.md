@@ -18,7 +18,7 @@ header:
 > Flutter, Dart, TMDb API, WebView, URL Launcher, SharedPreferences, Git, GitHub
 
 # Inspiration
-DramaBuddy was inspired by a love for K-Dramas and the need for a single, mobile-first app to track, rate, and discover content. The goal is to make drama tracking fun, simple, and visually engaging.
+DramaBuddy was inspired by a love for Korean Dramas and the need for a single, mobile-first app to track, rate, and discover content. The goal is to make drama tracking fun, simple, and visually engaging.
 
 [Github Repo](https://github.com/BlenWBegashaw/dramabuddy/)
 
