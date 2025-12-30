@@ -6,9 +6,10 @@ main:
     url: "/mywork"
   - title: "Involvement"
     url: "/involvement"
+  - title: "Experiences"
+    url: "/professionalexperience"
   - title: "About Me"
     url: "/about"
-  
- 
+
   
     
