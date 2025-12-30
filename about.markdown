@@ -1,44 +1,33 @@
 ---
 layout: archive
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 author: Blen Begashaw
 author_profile: true
 ---
 
-# Hi, I'm Blen Begashaw
-I graduated from Marymount University in May 2025 with a degree in Computer Science (Honors). I’m passionate about cybersecurity, secure software engineering, and solving problems that make technology safer, smarter, and more reliable.
+## Resume
 
-I love building secure systems, analyzing threats, and designing solutions that strengthen user trust. I’m currently seeking **full-time opportunities** in Software Engineering or Cybersecurity Engineering, where I can work on impactful, security-focused products and continue growing as an engineer.
+You can view my resume below or download a copy.
 
-My ideal role includes:
-- Hands-on secure software development  
-- Threat detection & anomaly analysis  
-- API development with strong encryption  
-- Collaborative problem-solving with real-world impact  
-
-Outside of tech, I enjoy learning, exploring new tools, and staying active in communities that challenge me to grow.
-
-Thank you for visiting my portfolio — I look forward to connecting!
+<div style="margin: 1.5rem 0;">
+  <a href="/assets/resume/Blen_Begashaw_Resume.pdf"
+     class="btn btn--primary"
+     download>
+    ⬇ Download Resume (PDF)
+  </a>
+</div>
 
 ---
 
-## My Skills
+### Resume Preview
 
-**Languages**: Python, Java, R, SQL, HTML/CSS, JavaScript
-
-**Security Tools/Concepts**: OWASP Top 10, AES/RSA Encryption, Secure Coding Practices, Threat Modeling, RBAC, Wireshark, Nmap, Kali Linux, Splunk, Nagios  
-
-**Technical Skills**: Threat Detection, Secure API Development, Anomaly Detection, UAT, Automation, Large-scale Data Analysis, Problem-Solving, Critical Thinking, Leadership, Teamwork, Customer Service  
+<iframe 
+  src="/assets/resume/Blen_Begashaw_Resume.pdf"
+  width="100%"
+  height="900px"
+  style="border: 1px solid #ddd; border-radius: 6px;">
+</iframe>
 
 ---
-
-## Certifications & Achievements
-
-- Microsoft Cybersecurity Analyst Certification  
-- AWS Certified Cloud Practitioner  
-- Google Project Management Certification  
-- HackTechnica Winner — SentiShelter  
-- 2 Years CTF Competitor  
-
 
