@@ -14,7 +14,7 @@ This page provides an overview of my professional journey as aN Engineer. My wor
     <span class="timeline-date">Sep 2024 – Dec 2024</span>
     <h3>Software Engineer Intern</h3>
     <h4>Audacy</h4>
-    <span class="timeline-location">Location: [Washington, D.C, USA]</span>
+    <span class="timeline-location">Washington, D.C, USA</span>
     <ul>
       <li>Built RESTful APIs for 10+ stations, implementing data encryption that increased real-time synchronization and broadcast reliability by 20%.</li>
       <li>Developed a secure, encrypted Python-based scheduling platform and conducted rigorous code reviews to prevent vulnerabilities, cutting manual workload by 50%.</li>
@@ -27,7 +27,7 @@ This page provides an overview of my professional journey as aN Engineer. My wor
     <span class="timeline-date">May 2024 – Aug 2024</span>
     <h3>Network Engineer Intern</h3>
     <h4>Cisco Meraki</h4>
-    <span class="timeline-location">Location: [San Francisco, USA]</span>
+    <span class="timeline-location">San Francisco, USA</span>
     <ul>
       <li>Engineered a Flask-based bot with NLP for secure case matching, improving resolution efficiency by 35% and identifying system anomalies.</li>
       <li>Investigated 10+ weekly security incidents, effectively mitigating XSS, insecure APIs, and firewall misconfigurations.</li>
@@ -40,7 +40,7 @@ This page provides an overview of my professional journey as aN Engineer. My wor
     <span class="timeline-date">June 2023 – May 2024</span>
     <h3>Application Service Intern</h3>
     <h4>Catholic Diocese of Arlington</h4>
-    <span class="timeline-location">Location: [Arlington, USA]</span>
+    <span class="timeline-location">Arlington, USA</span>
     <ul>
       <li>Programmed a registration portal for 90 parishes featuring Python-encrypted authentication and OWASP Top 10 protections.</li>
       <li>Managed 7 projects focused on secure documentation, reducing completion time by 25% through optimized digital workflows.</li>
@@ -53,7 +53,7 @@ This page provides an overview of my professional journey as aN Engineer. My wor
     <span class="timeline-date">May 2023 – Aug 2023</span>
     <h3>IT Solutions Consultant</h3>
     <h4>902 Youth</h4>
-    <span class="timeline-location">Location: [Remote, USA]</span>
+    <span class="timeline-location">Remote, USA</span>
     <ul>
       <li>Utilized internal system logs and OSINT tools to identify vulnerabilities and implement enforcement strategies to mitigate harm.</li>
       <li>Secured the company website by fixing 15+ vulnerabilities detected with Nmap and Nikto, reducing overall threat exposure by 40%.</li>
