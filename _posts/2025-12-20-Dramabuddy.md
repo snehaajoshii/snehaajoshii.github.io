@@ -20,6 +20,8 @@ header:
 # Inspiration
 DramaBuddy was inspired by a love for K-Dramas and the need for a single, mobile-first app to track, rate, and discover content. The goal is to make drama tracking fun, simple, and visually engaging.
 
+[Github Repo](https://github.com/BlenWBegashaw/dramabuddy/)
+
 # Overview
 DramaBuddy is a K-Drama tracking and discovery application built with a strong focus on clarity, usability, and mobile-first design. The app allows users to manage their watchlist, track viewing progress, and explore new content through structured metadata and social-inspired discovery.
 
