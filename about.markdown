@@ -6,6 +6,7 @@ author: Blen Begashaw
 author_profile: true
 ---
 
+<br>
 <img 
   src="{{ '/assets/resume/Blen_Begashaw_Resume_Graduted.png' | relative_url }}"
   alt="Blen Begashaw Resume"
