@@ -38,19 +38,30 @@ DramaBuddy provides tools to help users manage their drama experience:
 <!-- Replace with final App Store–ready screenshots -->
 
 ### Core Experience
-<img src="/assets/images/9.png" width="200" />
-<img src="/assets/images/2.png" width="200" />
-<img src="/assets/images/6.png" width="200" />
-<img src="/assets/images/5.png" width="200" />
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <img src="/assets/images/9.png" width="200" />
+  <img src="/assets/images/2.png" width="200" />
+  <img src="/assets/images/6.png" width="200" />
+  <img src="/assets/images/5.png" width="200" />
+</div>
+
 
 ### Discovery & Profile
-<img src="/assets/images/12.png" width="200" />
-<img src="/assets/images/8.png" width="200" />
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <img src="/assets/images/12.png" width="200" />
+  <img src="/assets/images/8.png" width="200" />
+</div>
+
 
 ### Details & Insights
-<img src="/assets/images/10.png" width="200" />
-<img src="/assets/images/11.png" width="200" />
-<img src="/assets/images/13.png" width="200" />
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <img src="/assets/images/10.png" width="200" />
+  <img src="/assets/images/11.png" width="200" />
+  <img src="/assets/images/13.png" width="200" />
+</div>
+
+<div style="display: flex; gap: 24px; flex-wrap: wrap; margin: 24px 0;">
+
 
 # Product & Design Focus
 DramaBuddy emphasizes:
