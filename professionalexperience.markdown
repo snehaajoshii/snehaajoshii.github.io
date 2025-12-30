@@ -3,6 +3,7 @@ layout: archive
 title: Experience
 permalink: /professionalexperience/
 author_profile: true
+nav_exclude: false
 ---
 
 This page provides an overview of my professional journey as a Software and Network Engineer. My work spans building secure API infrastructures, automating network monitoring, and implementing enterprise-grade security protocols to protect sensitive data and improve organizational efficiency.
