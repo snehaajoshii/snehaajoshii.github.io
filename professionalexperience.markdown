@@ -1,5 +1,5 @@
 ---
-layout: archieve
+layout: archive
 title: Experience
 permalink: /professionalexperience/
 author_profile: true
