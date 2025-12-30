@@ -11,7 +11,7 @@ tags:
 description: DramaBuddy is a mobile application designed to help users track Korean dramas, manage watch progress, and discover new content in a clean, intuitive interface.
 highlight_home: true
 header:
-  teaser: /assets/images/kdrama2.png
+  teaser: /assets/images/kdramamain.png
   caption: Drama Tracking App
 ---
 
