@@ -1,0 +1,28 @@
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 2rem;
+  border-left: 2px solid #3498db;
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 1.5rem;
+}
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -10px;
+  top: 0;
+  width: 16px;
+  height: 16px;
+  background-color: #3498db;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+.timeline-date {
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 0.3rem;
+  display: block;
+}
