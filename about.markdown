@@ -6,12 +6,10 @@ author: Blen Begashaw
 author_profile: true
 ---
 
-### Resume Preview
-
 <br><br>
 
 <img 
-  src="{{ '/assets/resume/Blen _Begashaw_Resume_Graduted.png' | relative_url }}"
+  src="{{ '/assets/resume/Blen_Begashaw_Resume_Graduted.png' | relative_url }}"
   alt="Blen Begashaw Resume"
   style="
     width: 100%;
@@ -24,7 +22,6 @@ author_profile: true
 
 
 ---
-
 
 You can download a copy below.
 
