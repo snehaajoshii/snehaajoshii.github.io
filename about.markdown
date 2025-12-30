@@ -23,7 +23,7 @@ You can view my resume below or download a copy.
 ### Resume Preview
 
 <iframe 
-  src="{{ '/assets/resume/Blen_Begashaw_Resume.pdf' | relative_url }}"
+  src="{{ '/assets/resume/Blen _Begashaw_Resume_Graduted.png' | relative_url }}"
   width="100%"
   height="900"
   style="border: 1px solid #ddd; border-radius: 6px;">
