@@ -11,12 +11,9 @@ author_profile: true
 
 # Hi! I'm Blen Begashaw 👋
 
-I graduated from **Marymount University** in **May 2025** with a degree in **Computer Science (Honors)**. I’m passionate about **cybersecurity**, **secure software engineering**, and solving problems that make technology **safer, smarter, and more reliable**.
+I graduated from Marymount University in May 2025 with a degree in **Computer Science (Honors)**. I’m passionate about **machine learning**, **secure software engineering**, and solving problems that make technology safer, smarter, and more reliable.
 
-I love building secure systems, analyzing threats, and designing solutions that strengthen **user trust**. I’m currently seeking **full-time opportunities in Software Engineering or Cybersecurity Engineering**, where I can work on impactful, security-focused products and continue growing as an engineer.
-
-I invite you to explore some of my projects and recent work below, or visit  
-[**My Work**](/mywork) to see a categorized view of my experience.
+I love building secure systems, analyzing threats, and designing solutions that strengthen user trust. I’m currently seeking **full-time opportunities in Software Engineering or Cybersecurity Engineering**, where I can work on impactful, security-focused products and continue growing as an engineer.
 
 ---
 
