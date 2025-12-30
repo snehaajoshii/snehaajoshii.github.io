@@ -38,19 +38,19 @@ DramaBuddy provides tools to help users manage their drama experience:
 <!-- Replace with final App Store–ready screenshots -->
 
 ### Core Experience
-<img src="/assets/9.png" width="200" />
-<img src="/assets/2.png" width="200" />
-<img src="/assets/6.png" width="200" />
-<img src="/assets/5.png" width="200" />
+<img src="/assets/images/9.png" width="200" />
+<img src="/assets/images/2.png" width="200" />
+<img src="/assets/images/6.png" width="200" />
+<img src="/assets/images/5.png" width="200" />
 
 ### Discovery & Profile
-<img src="/assets/12.png" width="200" />
-<img src="/assets/8.png" width="200" />
+<img src="/assets/images/12.png" width="200" />
+<img src="/assets/images/8.png" width="200" />
 
 ### Details & Insights
-<img src="/assets/10.png" width="200" />
-<img src="/assets/11.png" width="200" />
-<img src="/assets/13.png" width="200" />
+<img src="/assets/images/10.png" width="200" />
+<img src="/assets/images/11.png" width="200" />
+<img src="/assets/images/13.png" width="200" />
 
 # Product & Design Focus
 DramaBuddy emphasizes:
