@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Experience
 permalink: /professionalexperience/
 author_profile: true
