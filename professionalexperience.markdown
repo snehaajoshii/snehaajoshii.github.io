@@ -73,7 +73,21 @@ This page provides an overview of my professional journey as an engineer. My wor
       </ul>
     </div>
   </div>
-
+  
+  <!-- Marymount University -->
+  <div class="timeline-item">
+    <div class="timeline-icon"></div>
+    <div class="timeline-content">
+      <span class="timeline-date">May 2022 – Sep 2022</span>
+      <h3>Student Employee</h3>
+      <h4>Marymount University</h4>
+      <span class="timeline-location">Remote, USA</span>
+      <ul>
+        <li>Revised and managed the conference center website using WordPress, HTML, CSS, and JQuery, driving a 15% increase in website traffic and user engagement. </li>
+        <li>Utilized data analysis skills to track social media performance, resulting in a 25% boost in engagement and visibility by implementing targeted strategies.</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 ### Key Technical Skills Applied
