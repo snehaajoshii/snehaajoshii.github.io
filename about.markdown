@@ -2,13 +2,13 @@
 layout: archive
 title: 
 permalink: /resume/
-author: Blen Begashaw
+author: Sneha Joshi
 author_profile: true
 ---
 
 <img 
   src="{{ '/assets/resume/Blen_Begashaw_Resume_Graduted.png' | relative_url }}"
-  alt="Blen Begashaw Resume"
+  alt="Sneha Joshi Resume"
   style="
     width: 100%;
     max-width: 900px;
