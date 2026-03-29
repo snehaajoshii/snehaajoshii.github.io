@@ -11,9 +11,9 @@ author_profile: true
 
 # Hi! I'm Sneha Joshi👋
 
-I graduated from Marymount University in May 2025 with a degree in **Computer Science **. I’m passionate about backend engineering, cloud computing and solving complex problems that make systems more scalable, relibale, and efficient. 
+I am a software engineer at Oracle on the oracle cloud infrastructure team.I graduated from Marymount University in May 2025 with a degree in Computer Science. I’m passionate about backend engineering, cloud computing and solving complex problems that make systems more scalable, relibale, and efficient. 
 
-I love building robust APIs, optimazing system performance, and working with cloud technologies to design high impact solutions. I am currently a software engineer at Oracle on the oracle cloud infrastructure team.
+I love building robust APIs, optimazing system performance, and working with cloud technologies to design high impact solutions. 
 
 ---
 
