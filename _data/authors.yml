@@ -1,14 +1,14 @@
-Blen Begashaw:
+Sneha Joshi:
   bio         : "Let's talk about code! Reach out via the links below."
   avatar      : "/assets/images/dogwithcomputer.png"
   links:
     - label: "Email"
       icon: "far fa-envelope"
-      url: "mailto:blenbegashaw@gmail.com"
+      url: "mailto:snehajoshi@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/blen-begashaw-a8a2a4211 "
+      url: "https://www.linkedin.com/in/sneha-joshi02  "
     - label: "Github"
       icon: "fab fa-github"
-      url: "https://github.com/BlenWBegashaw"
+      url: "https://github.com/snehaajoshii"
       
