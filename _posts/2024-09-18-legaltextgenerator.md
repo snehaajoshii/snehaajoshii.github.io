@@ -9,7 +9,7 @@ tags:
 highlight_home: false
 body_class: legaltextgenerator-page
 header:
-  teaser: /assets/images/medlingua1.png
+  teaser: /assets/images/legal.png
   caption: ""
 ---
 > TensorFlow, NLP, Deep Learning
