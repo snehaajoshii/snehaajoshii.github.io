@@ -30,14 +30,13 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 - **Data Visualization:** Bar charts, line graphs, and scatter plots show sentiment trends over time.
 
 ## Final Product
-
-
+![Final Product](/assets/images/sentishelterfinal.png)
 
 # How we built it
 - **Data Source:** Kaggle Reddit Climate Change Dataset (2010-2022)  
 - **Processing:** Python, SpaCy NLP for cleaning and extracting entities like people and locations  
 - **Visualization:** Matplotlib and Seaborn for sentiment trends, topic clusters, and frequency charts  
-- **Website:** Responsive HTML/CSS/JS site with integrated Hugging Face chatbot  
+- **Website:** Responsive HTML/CSS/JS site with openai powered chatbot  
 
 ### Sample Kaggle Data Science Work
 
@@ -51,7 +50,7 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 - Explore Reddit sentiment trends (2010-2022)  
 - Identify top entities (persons, locations) and their associated sentiment  
 - Interactive visualizations and data exploration  
-- Hugging Face chatbot integration for learning about climate and housing  
+- openai chatbot integration for learning about climate and housing  
 
 # Challenges we ran into
 - **Large Dataset:** Required sampling to maintain performance without losing insights  
