@@ -15,7 +15,6 @@ header:
 > TensorFlow, NLP, Deep Learning
 
 [Github repository](https://github.com/snehaajoshii/LegalTextGenerator)
-PDF
 
 # Inspiration
 This project was built to explore how machine learning models can generate structured, human-like legal text. The goal was to understand how character-level language models learn patterns in complex formal writing.
