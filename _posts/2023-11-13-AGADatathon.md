@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "AGA Datathon – Graduation Rates & Federal Funding Analysis"
+title: "Graduation Rates & Federal Funding Analysis"
 date: 2023-11-13 12:00:00 +0000
 categories:
   - work
