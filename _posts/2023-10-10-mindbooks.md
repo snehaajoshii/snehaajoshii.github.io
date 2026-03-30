@@ -6,7 +6,7 @@ categories:
   - work
 tagline: "Database"
 tags:
-  - Datascience
+  - Data Science
 description: Relational Database for Bookstore Management
 highlight_home: false
 header:
