@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Graduation Rates & Federal Funding Analysis"
+title: "GradFunding Insights"
 date: 2023-11-13 12:00:00 +0000
 categories:
   - work
