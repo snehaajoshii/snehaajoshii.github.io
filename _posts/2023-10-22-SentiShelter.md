@@ -16,11 +16,7 @@ header:
 
 I collaborated with 3 people for this project. As a group, we combined our skills in data science, NLP, web development, and visualization to explore how climate change discussions affect housing sentiment.
 
-[Live Website](https://blenwbegashaw.github.io/sentishelter/)  
-
-[Chatbot](https://huggingface.co/spaces/blenbegashaw/sentishelter-chatbots/)
-
-[Github Repo](https://github.com/BlenWBegashaw/sentishelter/)
+[Github Repo](https://github.com/snehaajoshii/sentishelter)
 
 # Inspiration
 We created SentiShelter to help people understand how climate change conversations influence the housing market. From rising insurance rates to homes becoming less sustainable, we wanted to provide a tool that visualizes sentiment trends and highlights key topics and locations.
@@ -35,9 +31,6 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 
 ## Final Product
 
-<video width="800" height="450" controls poster="/assets/posterpic.png">
-  <source src="/assets/New%20Recording%20-%2012_9_2025,%2010_09_35%20PM.mp4" type="video/mp4">
-</video>
 
 
 # How we built it
@@ -83,7 +76,5 @@ SentiShelter analyzes Reddit comments from 2010-2022, tracking sentiment over ti
 - Add more real-time sentiment tracking as new data becomes available  
 - Expand chatbot capabilities to provide more detailed explanations of trends and insights  
 - Enhance topic clustering and sentiment analysis using advanced NLP models  
-
-
 
 
