@@ -6,7 +6,7 @@ categories:
   - work
 tagline: ""
 tags:
-  - data-science
+  - Data Science
 highlight_home: false
 body_class: datathon-page
 header:
