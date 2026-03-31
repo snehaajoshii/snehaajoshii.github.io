@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Spotify Music Recommender"
+title: "Spotify Tune Suggest"
 date: 2023-11-19 19:27:22 +0000
 categories:
   - work
