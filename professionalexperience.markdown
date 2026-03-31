@@ -6,94 +6,59 @@ author_profile: true
 nav_exclude: false
 ---
 
-This page provides an overview of my professional journey as an engineer. My work spans building secure API infrastructures, automating network monitoring, and implementing enterprise-grade security protocols to protect sensitive data and improve organizational efficiency.
+This page provides an overview of my professional journey as an engineer, spanning large-scale GPU infrastructure systems, applied machine learning research, and product-focused software engineering.
 
-<div class="timeline">
+<div>
+  <h5>Oracle America Inc. – GPU Core Compute Architecture</h5>
+  <p><em>Seattle, WA</em></p>
+  <ul>
+    <li>Implemented and owned the <strong>Longtail project</strong>, leveraging multi-threading and asynchronous programming in Python and SQL to enable real-time monitoring and parallelized repair of multiple sidelined GPU hosts (including NVIDIA’s new GB200).</li>
+    <li>Achieved a <strong>55% reduction in average repair time</strong> and increased repair throughput by 30%, directly contributing to <strong>$37M in cost savings</strong> for Oracle since September.</li>
+    <li>Tracked and reported KPIs such as mean time to repair (MTTR), failure rates, and host recovery percentages using Grafana and custom dashboards.</li>
+    <li>Built and maintained extensive automated test suites using Pytest and Unittest, ensuring continuous integration of diagnostic and repair scripts.</li>
+  </ul>
 
-  <!-- Audacy -->
-  <div class="timeline-item">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <span class="timeline-date">Sep 2024 – Dec 2024</span>
-      <h3>Software Engineer Intern</h3>
-      <h4>Audacy</h4>
-      <span class="timeline-location">Washington, D.C., USA</span>
-      <ul>
-        <li>Built RESTful APIs for 10+ stations, implementing data encryption that increased real-time synchronization and broadcast reliability by 20%.</li>
-        <li>Developed a secure, encrypted Python-based scheduling platform and conducted rigorous code reviews to prevent vulnerabilities, cutting manual workload by 50%.</li>
-        <li>Applied industry-standard encryption methods to ensure data integrity across broadcasting workflows.</li>
-      </ul>
-    </div>
-  </div>
+  <h5>Software Engineer Intern – Budget Referee</h5>
+  <p><em>May 2024 – Aug 2024</em></p>
+  <ul>
+    <li>Optimized budget features by hyper-parameter tuning an <strong>XGBoost model</strong>, increasing customer dashboard traffic by 20%.</li>
+    <li>Enhanced <strong>Plaid API integration</strong> by optimizing request/response handling and implementing robust retry mechanisms, reducing synchronization issues by 25%.</li>
+    <li>Wrote comprehensive unit tests in Jest for the budget calculator component to achieve 80% code coverage.</li>
+    <li>Presented technical achievements to the CEO and leadership team, securing approval and deployment of admin page features.</li>
+  </ul>
 
-  <!-- Cisco Meraki -->
-  <div class="timeline-item">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <span class="timeline-date">May 2024 – Aug 2024</span>
-      <h3>Network Engineer Intern</h3>
-      <h4>Cisco Meraki</h4>
-      <span class="timeline-location">San Francisco, USA</span>
-      <ul>
-        <li>Engineered a Flask-based bot with NLP for secure case matching, improving resolution efficiency by 35% and identifying system anomalies.</li>
-        <li>Investigated 10+ weekly security incidents, effectively mitigating XSS, insecure APIs, and firewall misconfigurations.</li>
-        <li>Automated proactive monitoring using Meraki APIs, increasing accuracy of performance analysis by 40%.</li>
-      </ul>
-    </div>
-  </div>
+  <h5>Research Project 1 – Dr. Susan Conrad (Marymount University)</h5>
+  <ul>
+    <li>Utilized AI Fairness 360 and IBM What-If Tool to audit machine learning models for bias, ensuring alignment with AI governance and transparency standards.</li>
+    <li>Integrated CNNs and RNNs using TensorFlow to analyze structured and sequential datasets across 200+ US government records, improving fraud prediction performance.</li>
+    <li>Applied LIME and SHAP to interpret model predictions, increasing explainability and stakeholder trust in AI systems.</li>
+  </ul>
 
-  <!-- Catholic Diocese of Arlington -->
-  <div class="timeline-item">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <span class="timeline-date">June 2023 – May 2024</span>
-      <h3>Application Service Intern</h3>
-      <h4>Catholic Diocese of Arlington</h4>
-      <span class="timeline-location">Arlington, USA</span>
-      <ul>
-        <li>Programmed a registration portal for 90 parishes featuring Python-encrypted authentication and OWASP Top 10 protections.</li>
-        <li>Managed seven projects focused on secure documentation, reducing completion time by 25% through optimized digital workflows.</li>
-        <li>Enhanced iMIS database security using AES encryption and Role-Based Access Control (RBAC), reducing data breach risks by 30%.</li>
-      </ul>
-    </div>
-  </div>
+  <h5>Research Project 2 – Prof. Noor Hassim (Marymount University)</h5>
+  <ul>
+    <li>Developed data pipelines using Apache Kafka and Apache Spark to process real-time data from 3,000+ Glassdoor companies and 150,000+ employee reviews.</li>
+    <li>Engineered a company-matching algorithm using normalization, token-based exact matching, and Levenshtein distance for high-precision record linkage across datasets.</li>
+  </ul>
 
-  <!-- 902 Youth -->
-  <div class="timeline-item">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <span class="timeline-date">May 2023 – Aug 2023</span>
-      <h3>IT Solutions Consultant</h3>
-      <h4>902 Youth</h4>
-      <span class="timeline-location">Remote, USA</span>
-      <ul>
-        <li>Utilized internal system logs and OSINT tools to identify vulnerabilities and implement enforcement strategies to mitigate harm.</li>
-        <li>Secured the company website by fixing 15+ vulnerabilities detected with Nmap and Nikto, reducing overall threat exposure by 40%.</li>
-        <li>Developed and deployed enforcement strategies to protect organizational assets from external threats.</li>
-      </ul>
-    </div>
-  </div>
-  
-  <!-- Marymount University -->
-  <div class="timeline-item">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <span class="timeline-date">May 2022 – Sep 2022</span>
-      <h3>Student Employee</h3>
-      <h4>Marymount University</h4>
-      <span class="timeline-location">Arlington, USA</span>
-      <ul>
-        <li>Revised and managed the conference center website using WordPress, HTML, CSS, and JQuery, driving a 15% increase in website traffic and user engagement. </li>
-        <li>Utilized data analysis skills to track social media performance, resulting in a 25% boost in engagement and visibility by implementing targeted strategies.</li>
-      </ul>
-    </div>
-  </div>
+  <h5>IT Assistant – Marymount University Conference Center</h5>
+  <p><em>May 2022 – Dec 2022</em></p>
+  <ul>
+    <li>Refined and managed the conference center website using WordPress, HTML, CSS, and jQuery.</li>
+    <li>Integrated a <strong>ChatGPT-v3 chatbot via LangFlow</strong> to simplify booking processes, resulting in a 30% boost in customer bookings.</li>
+    <li>Utilized data analytics to track social media performance, resulting in 1,000+ user engagements and increased visibility.</li>
+  </ul>
 </div>
 
+<hr>
+
 ### Key Technical Skills Applied
-- **Backend:** Python, Flask, RESTful APIs  
-- **Security:** AES Encryption, RBAC, OWASP Top 10, OSINT, Nmap, Nikto  
-- **Networking:** Cisco Meraki APIs, Firewall Configuration, Network Automation  
-- **Databases:** iMIS, SQL, Secure Data Handling  
-- **Dev Tools:** Git, Docker, AWS
+
+* **Backend & Systems:** Python, SQL, Flask, Multi-threading, Async Programming
+* **Data Engineering:** Apache Kafka, Apache Spark, ETL Pipelines
+* **Machine Learning:** TensorFlow, XGBoost, CNNs, RNNs
+* **AI/ML Explainability:** SHAP, LIME, AI Fairness 360, What-If Tool
+* **Testing & DevOps:** Pytest, Unittest, Jest, CI/CD
+* **Observability:** Grafana, KPI Dashboards
+* **APIs & Integration:** REST APIs, Plaid API, Data Validation Pipelines
+* **Web & Automation:** WordPress, jQuery, Chatbot Integration (LangFlow / GPT APIs)
 
