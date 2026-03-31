@@ -82,9 +82,7 @@ This page provides an overview of my professional journey as an engineer, spanni
 </div>
 
 ### Key Technical Skills Applied
-- **Backend & Systems:** Python, SQL, Flask, Multi-threading, Async Programming
-- **Data Engineering:** Apache Kafka, Apache Spark, ETL Pipelines
-- **Machine Learning:** TensorFlow, XGBoost, CNNs, RNNs, SHAP, LIME
-- **Observability & Testing:** Grafana, Pytest, Unittest, Jest, CI/CD
-- **Web & Integration:** REST APIs, Plaid API, WordPress, jQuery, LangFlow
+- **Programming Languages:** Python, HTML/CSS, JavaScript, Java, Ruby, SQL, Swift
+- **Frameworks:** TensorFlow, Python (Pandas, NumPy, Matplotlib, Scikit-Learn), MongoDB, PostgreSQL, Django, Tableau,Stata, UNIX, jQuery, PowerBi, FastAPI, Flutter, FastAPI, Flask, Spring Boot, Node.js, jQuery
+- **Developer Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions, Travis CI, VS Code, Pytest, Unittest, Grafana,ELK Stack
 
