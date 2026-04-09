@@ -3,12 +3,15 @@
 ================================ */
 
 .masthead {
-  background: rgba(255, 255, 255, 0.75);
-  backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(0, 0, 83, 0.08);
   position: sticky;
   top: 0;
   z-index: 1000;
+
+  /* glass effect to match your theme */
+  background: var(--surface);
+  backdrop-filter: blur(18px);
+
+  border-bottom: 1px solid var(--line);
 }
 
 /* ================================
@@ -16,47 +19,15 @@
 ================================ */
 
 #site-nav {
-  background-color: transparent;
+  background: transparent;
   padding: 0.9rem 1.5rem;
+
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
 
-/* ================================
-   NAV LINKS
-================================ */
-
-#site-nav a,
-#site-nav a:visited {
-  color: #000053;
-  font-family: "Rubik", sans-serif;
-  text-decoration: none;
-  font-weight: 500;
-  margin: 0 0.9rem;
-  position: relative;
-  transition: 0.25s ease;
-}
-
-/* Hover state */
-#site-nav a:hover {
-  color: #ff9a41;
-}
-
-/* Active glow underline */
-#site-nav a::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -5px;
-  width: 0%;
-  height: 2px;
-  background: linear-gradient(90deg, #ff9a41, #ffb566);
-  transition: 0.3s ease;
-}
-
-#site-nav a:hover::after {
-  width: 100%;
+  max-width: var(--container);
+  margin: 0 auto;
 }
 
 /* ================================
@@ -65,16 +36,77 @@
 
 .site-title,
 .masthead__title {
-  font-weight: 700;
-  font-size: 1.1rem;
-  color: #000053;
+  font-weight: 800;
+  font-size: 1.15rem;
   letter-spacing: -0.02em;
+
+  color: var(--text);
 }
 
 /* ================================
-   OPTIONAL: ACTIVE PAGE STATE
+   NAV LINKS
+================================ */
+
+#site-nav a,
+#site-nav a:visited {
+  color: var(--muted);
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+
+  margin: 0 0.9rem;
+  position: relative;
+
+  transition: 0.25s ease;
+}
+
+/* Hover state */
+#site-nav a:hover,
+#site-nav a:focus-visible {
+  color: var(--text);
+}
+
+/* Underline animation */
+#site-nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+
+  width: 0%;
+  height: 2px;
+
+  background: linear-gradient(
+    90deg,
+    var(--coral),
+    var(--gold)
+  );
+
+  transition: 0.3s ease;
+}
+
+#site-nav a:hover::after,
+#site-nav a:focus-visible::after {
+  width: 100%;
+}
+
+/* ================================
+   ACTIVE PAGE STATE
 ================================ */
 
 #site-nav a.active {
-  color: #ff9a41;
+  color: var(--coral);
+}
+
+/* ================================
+   OPTIONAL: HOVER LIFT FEEL
+================================ */
+
+#site-nav a {
+  display: inline-block;
+  transform: translateY(0);
+}
+
+#site-nav a:hover {
+  transform: translateY(-1px);
 }
