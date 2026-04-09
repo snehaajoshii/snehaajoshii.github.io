@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <img 
-  src="{{ '/assets/Sneha_Joshi_Resume.pdf' | relative_url }}"
+  src="{{ '/assets/images/sneha resume pic' | relative_url }}"
   alt="Sneha Joshi Resume"
   style="
     width: 100%;
@@ -19,7 +19,7 @@ author_profile: true
   ">
 
 <div style="margin: 1.5rem 0;">
-  <a href="/assets/resume/Sneha_Joshi_Resume.pdf"
+  <a href="/assets/Sneha_Joshi_Resume.pdf"
      class="btn btn--primary"
      download>
     ⬇ Download Resume (PDF)
@@ -32,7 +32,7 @@ author_profile: true
 <div style="text-align: center; margin: 2rem 0;">
   <p>
     📧 <a href="mailto:snehajoshi@gmail.com">snehajoshi@gmail.com</a> &nbsp;|&nbsp;
-    🔗 <a href="https://www.linkedin.com/in/snehaajoshi" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-    🐙 <a href="https://github.com/snehaajoshi" target="_blank">GitHub</a>
+    🔗 <a href="https://www.linkedin.com/in/sneha-joshi02" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+    🐙 <a href="https://github.com/snehaajoshii" target="_blank">GitHub</a>
   </p>
 </div>
