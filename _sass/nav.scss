@@ -3,12 +3,12 @@
 ================================ */
 
 .masthead {
-  background: white;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 83, 0.08);
   position: sticky;
   top: 0;
   z-index: 1000;
-  backdrop-filter: blur(10px);
 }
 
 /* ================================
@@ -16,8 +16,8 @@
 ================================ */
 
 #site-nav {
-  background-color: white;
-  padding: 0.8rem 1.5rem;
+  background-color: transparent;
+  padding: 0.9rem 1.5rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -33,26 +33,26 @@
   font-family: "Rubik", sans-serif;
   text-decoration: none;
   font-weight: 500;
-  margin: 0 0.8rem;
+  margin: 0 0.9rem;
   position: relative;
-  transition: 0.2s ease;
+  transition: 0.25s ease;
 }
 
-/* Hover effect */
+/* Hover state */
 #site-nav a:hover {
   color: #ff9a41;
 }
 
-/* Underline animation */
+/* Active glow underline */
 #site-nav a::after {
   content: "";
   position: absolute;
   left: 0;
-  bottom: -4px;
+  bottom: -5px;
   width: 0%;
   height: 2px;
-  background: #ff9a41;
-  transition: 0.25s ease;
+  background: linear-gradient(90deg, #ff9a41, #ffb566);
+  transition: 0.3s ease;
 }
 
 #site-nav a:hover::after {
@@ -60,7 +60,7 @@
 }
 
 /* ================================
-   BRAND / LOGO AREA (if exists)
+   BRAND / LOGO AREA
 ================================ */
 
 .site-title,
@@ -68,4 +68,13 @@
   font-weight: 700;
   font-size: 1.1rem;
   color: #000053;
+  letter-spacing: -0.02em;
+}
+
+/* ================================
+   OPTIONAL: ACTIVE PAGE STATE
+================================ */
+
+#site-nav a.active {
+  color: #ff9a41;
 }
