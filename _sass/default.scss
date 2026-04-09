@@ -233,3 +233,35 @@ img {
     padding: 1.5rem 0 3rem;
   }
 }
+/* ================================
+   GLOBAL TITLE SIZE RESET
+================================ */
+
+h1,
+.page__title,
+.post__title,
+.page-title {
+  font-size: 1.9rem !important;
+  line-height: 1.3;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+/* Blog post title slightly more refined */
+.post__title {
+  font-size: 1.8rem !important;
+}
+
+/* Archive / category pages */
+.archive__title {
+  font-size: 1.6rem !important;
+}
+
+/* Mobile adjustment */
+@media (max-width: 768px) {
+  h1,
+  .page__title,
+  .post__title {
+    font-size: 1.5rem !important;
+  }
+}
