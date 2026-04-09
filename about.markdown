@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <img 
-  src="{{ '/assets/images/sneha resume pic' | relative_url }}"
+  src="{{ '/assets/images/sneharesumepic.png' | relative_url }}"
   alt="Sneha Joshi Resume"
   style="
     width: 100%;
