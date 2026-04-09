@@ -1,11 +1,10 @@
 ---
-# to make sure Jekyll reads this
+# To make sure Jekyll reads this
 ---
 
 /* ================================
    IMPORTS (BASE DESIGN SYSTEM)
 ================================ */
-
 @import "default";
 @import "author";
 @import "footer";
@@ -18,7 +17,6 @@
 /* ================================
    SENTISHELTER PAGE OVERRIDES
 ================================ */
-
 .sentishelter-page .page-title,
 .sentishelter-page .post-title,
 .sentishelter-page h1.page-title {
@@ -38,7 +36,6 @@
 /* ================================
    TIMELINE COMPONENT (MODERN)
 ================================ */
-
 .timeline {
   position: relative;
   margin: 2rem 0;
