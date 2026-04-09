@@ -1,49 +1,235 @@
-body {
-    color: #333; // Neutral text color for readability
-    background-color: white; // Set the background to white
-    font-family: "Work Sans", sans-serif; // Use a clean, modern font
-    margin: 0;
-    padding: 0;
+/* ================================
+   DESIGN SYSTEM (THEME)
+================================ */
+
+:root {
+  --bg: #fbf6ed;
+  --bg-soft: #fffaf2;
+  --surface: rgba(255, 250, 242, 0.78);
+  --surface-strong: #fff8ee;
+  --text: #17323a;
+  --muted: #5d7176;
+  --line: rgba(23, 50, 58, 0.12);
+  --teal: #0f6a6d;
+  --teal-deep: #0b4e50;
+  --green: #6aa84f;
+  --gold: #d9a441;
+  --coral: #f06c52;
+  --shadow: 0 22px 50px rgba(23, 50, 58, 0.11);
+  --radius-lg: 28px;
+  --radius-md: 18px;
+  --radius-sm: 12px;
+  --container: 1180px;
 }
+
+/* ================================
+   RESET / BASE
+================================ */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* ================================
+   BODY + GLOBAL TYPOGRAPHY
+================================ */
+
+body {
+  margin: 0;
+  font-family: "Manrope", "Avenir Next", sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(240, 108, 82, 0.12), transparent 26%),
+    radial-gradient(circle at 88% 12%, rgba(106, 168, 79, 0.16), transparent 20%),
+    linear-gradient(180deg, #fbf6ed 0%, #f6f0e2 100%);
+  color: var(--text);
+}
+
+/* ================================
+   TEXT
+================================ */
+
+p,
+li,
+.sidebar p,
+.archive__item-title {
+  color: var(--muted);
+  line-height: 1.75;
+  font-family: "Manrope", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text);
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: clamp(3rem, 5vw, 5rem);
+}
+
+h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+h3 {
+  font-size: 1.35rem;
+}
+
+/* ================================
+   LINKS
+================================ */
 
 a {
-    color: #000053; // Neutral link color
-    text-decoration: none; // Remove underline for links
-}
-
-a:visited {
-    color: #666; // Slightly lighter color for visited links
+  color: var(--teal);
+  text-decoration: none;
+  transition: 0.2s ease;
 }
 
 a:hover {
-    color: #ff9a41; // Optional: Add a subtle hover effect
+  color: var(--teal-deep);
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #000; // Set all headings to black
-    font-family: "Rubik", sans-serif; // Use a consistent font for headings
-    font-weight: 700;
-    margin-bottom: 1em;
+/* ================================
+   IMAGES
+================================ */
+
+img {
+  display: block;
+  max-width: 100%;
 }
 
-p,
-.sidebar p,
-.archive__item-title {
-    font-family: "Work Sans", sans-serif; // Keep the body font consistent
-    color: #333; // Neutral text color
-    line-height: 1.6; // Improve readability
-}
+/* ================================
+   LAYOUT
+================================ */
 
 #main {
-    position: relative;
-    background-color: white; // Ensure the main content area is white
-    padding: 20px; // Add some padding for spacing
+  position: relative;
+  padding: 2rem;
 }
 
+.container {
+  width: min(calc(100% - 2.4rem), var(--container));
+  margin: 0 auto;
+}
+
+.section {
+  padding: 2rem 0 5rem;
+}
+
+/* ================================
+   SIDEBAR (CLEAN MODERN)
+================================ */
+
 .sidebar {
-    background-color: white; // Ensure the sidebar is white
-    color: #333; // Neutral text color
-    padding: 20px; // Add spacing
-    box-shadow: none; // Remove any shadows
-    border: none; // Remove borders
+  background: var(--surface);
+  backdrop-filter: blur(10px);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: var(--shadow);
+  color: var(--text);
+}
+
+/* ================================
+   CARDS (REUSABLE)
+================================ */
+
+.card {
+  background: var(--surface);
+  border-radius: var(--radius-md);
+  padding: 1.4rem;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+/* ================================
+   BUTTONS
+================================ */
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 0.9rem 1.2rem;
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.button-primary {
+  background: linear-gradient(135deg, var(--teal-deep), var(--teal));
+  color: white;
+}
+
+.button-primary:hover {
+  transform: translateY(-2px);
+}
+
+/* ================================
+   UTILITIES
+================================ */
+
+.text-muted {
+  color: var(--muted);
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* ================================
+   ANIMATIONS
+================================ */
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: 0.6s ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ================================
+   RESPONSIVE
+================================ */
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: clamp(2.5rem, 10vw, 4rem);
+  }
+
+  #main {
+    padding: 1.2rem;
+  }
+
+  .section {
+    padding: 1.5rem 0 3rem;
+  }
 }
