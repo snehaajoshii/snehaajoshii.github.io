@@ -100,15 +100,19 @@ img {
 /* ================================
    MAIN LAYOUT
 ================================ */
+/* ================================
+   MAIN LAYOUT (CENTERED)
+================================ */
 #main {
   display: flex;
   flex-direction: row;
   gap: 2rem;
-  justify-content: center;
+  justify-content: center; /* centers content horizontally */
   align-items: flex-start;
   padding: 2rem;
-  width: 90%; /* content fills 90% of screen */
-  margin: 0 auto;
+  width: 100%;
+  max-width: 90%; /* content fills 90% of screen */
+  margin: 0 auto; /* center the container */
 }
 
 .main-content {
@@ -117,17 +121,39 @@ img {
 }
 
 .sidebar {
-  flex: 1; /* small sidebar */
+  flex: 1; /* smaller sidebar */
   min-width: 180px;
   background: var(--surface);
   backdrop-filter: blur(10px);
   border-radius: var(--radius-md);
-  padding: 1.5rem;
+  padding: 1.2rem;
   border: 1px solid rgba(255, 255, 255, 0.5);
   box-shadow: var(--shadow);
   color: var(--text);
 }
 
+/* ================================
+   RESPONSIVE
+================================ */
+@media (max-width: 1024px) {
+  #main {
+    flex-direction: column; /* stack sidebar below content */
+    width: 95%; /* slightly narrower for tablets */
+    padding: 1.5rem;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-top: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .main-content p {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+}
 /* ================================
    AUTHOR / SIDEBAR CARD
 ================================ */
