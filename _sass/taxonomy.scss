@@ -1,20 +1,59 @@
+/* ================================
+   TAXONOMY LAYOUT (CATEGORIES / TAGS)
+================================ */
+
 .taxonomy__section {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 3em;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 3rem;
 }
 
-.taxonomy__section+.taxonomy__section {
-    margin-top: 0;
+/* Remove extra spacing between sections */
+.taxonomy__section + .taxonomy__section {
+  margin-top: 0;
 }
+
+/* ================================
+   SECTION HEADINGS
+================================ */
 
 .taxonomy__section h3 {
-    margin-top: 0;
+  margin-top: 0;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.4rem;
+  color: #000;
 }
 
+/* ================================
+   TAG / CATEGORY LINKS
+================================ */
+
 .taxonomy__index a {
-    border: none;
-    padding: 0 5px;
-    border-radius: 5px;
-    background-color: #e2f8ff;
+  display: inline-block;
+  padding: 0.35rem 0.7rem;
+  margin: 0.2rem;
+  border-radius: 999px;
+  background-color: rgba(0, 0, 83, 0.08);
+  color: #000053;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: 0.2s ease;
+  border: 1px solid transparent;
+}
+
+/* Hover state */
+.taxonomy__index a:hover {
+  background-color: #ff9a41;
+  color: white;
+  transform: translateY(-1px);
+  border-color: #ff9a41;
+}
+
+/* ================================
+   ACTIVE / FOCUS STATE (optional UX polish)
+================================ */
+
+.taxonomy__index a:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(255, 154, 65, 0.3);
 }
