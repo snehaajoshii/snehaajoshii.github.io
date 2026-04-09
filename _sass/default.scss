@@ -56,19 +56,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
 }
 
-h1 {
-  font-size: 1.2rem; /* just slightly bigger than paragraph */
-}
+h1 { font-size: 1.2rem; }
+h2 { font-size: 1.1rem; }
+h3 { font-size: 1rem; }
 
-h2 {
-  font-size: 1.1rem;
-}
-
-h3 {
-  font-size: 1rem; /* same as paragraph, or slightly bigger */
-}
-
-p, li, .sidebar p, .archive__item-title {
+p, li, .archive__item-title {
   font-family: "Manrope", sans-serif;
   font-size: 0.95rem;
   color: var(--muted);
@@ -83,23 +75,13 @@ a {
   text-decoration: none;
   transition: 0.2s ease;
 }
-
-a:hover {
-  color: var(--teal-deep);
-}
+a:hover { color: var(--teal-deep); }
 
 /* ================================
    IMAGES
 ================================ */
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
+img { display: block; max-width: 100%; height: auto; }
 
-/* ================================
-   MAIN LAYOUT
-================================ */
 /* ================================
    MAIN LAYOUT (CENTERED)
 ================================ */
@@ -107,21 +89,29 @@ img {
   display: flex;
   flex-direction: row;
   gap: 2rem;
-  justify-content: center; /* centers content horizontally */
+  justify-content: center;
   align-items: flex-start;
   padding: 2rem;
-  width: 100%;
-  max-width: 90%; /* content fills 90% of screen */
-  margin: 0 auto; /* center the container */
+  width: 90%; /* fills 90% of screen */
+  margin: 0 auto;
 }
 
 .main-content {
-  flex: 4; /* large portion of screen */
+  flex: 4;
   min-width: 300px;
 }
 
+/* ================================
+   SIDEBAR (HOMEPAGE ONLY)
+================================ */
 .sidebar {
-  flex: 1; /* smaller sidebar */
+  display: none; /* hidden on non-homepage */
+}
+
+.homepage #main .sidebar,
+.homepage-sidebar {
+  display: block;
+  flex: 1; /* small sidebar */
   min-width: 180px;
   background: var(--surface);
   backdrop-filter: blur(10px);
@@ -133,70 +123,57 @@ img {
 }
 
 /* ================================
-   RESPONSIVE
+   AUTHOR CARD
 ================================ */
-@media (max-width: 1024px) {
-  #main {
-    flex-direction: column; /* stack sidebar below content */
-    width: 95%; /* slightly narrower for tablets */
-    padding: 1.5rem;
-  }
-
-  .sidebar {
-    width: 100%;
-    margin-top: 1.5rem;
-  }
+.author__avatar img {
+  border-radius: 50%;
+  box-shadow: var(--shadow);
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }
 
-@media (max-width: 768px) {
-  .main-content p {
-    font-size: 0.9rem;
-    line-height: 1.4;
-  }
-}
+.author__content { text-align: center; padding: 0.8rem 0; }
+.author__name { font-size: 1rem; font-weight: 700; color: var(--text); margin-top: 0.4rem; }
+.author__bio { font-size: 0.9rem; color: var(--muted); margin-top: 0.4rem; line-height: 1.5; }
+
 /* ================================
-   AUTHOR / SIDEBAR CARD
-================================ */
-/* ================================
-   AUTHOR LINKS & BUTTON (COMPACT)
+   AUTHOR LINKS & BUTTONS
 ================================ */
 .author__urls {
   list-style: none;
   padding: 0;
-  margin: 0.5rem 0 0 0; /* shorter top margin */
+  margin: 0.5rem 0 0 0;
   display: flex;
   flex-direction: column;
-  gap: 0.25rem; /* smaller gap between links */
+  gap: 0.25rem;
 }
 
 .author__urls li a {
   color: var(--muted);
   font-weight: 500;
   text-decoration: none;
+  font-size: 0.9rem;
   transition: 0.2s ease;
-  font-size: 0.9rem; /* slightly smaller text */
 }
-
-.author__urls li a:hover {
-  color: var(--teal);
-}
+.author__urls li a:hover { color: var(--teal); }
 
 .author__urls .btn {
   display: block;
-  margin-top: 0.5rem; /* reduce spacing above button */
-  padding: 0.5rem 0.9rem; /* smaller padding */
+  margin-top: 0.5rem;
+  padding: 0.5rem 0.9rem;
   border-radius: 999px;
   text-align: center;
   background: linear-gradient(135deg, var(--teal), var(--teal-deep));
   color: white;
   font-weight: 600;
-  font-size: 0.9rem; /* slightly smaller text */
+  font-size: 0.9rem;
   transition: all 0.2s ease;
 }
+.author__urls .btn:hover { transform: translateY(-1px); }
 
-.author__urls .btn:hover {
-  transform: translateY(-1px); /* subtle hover */
-}
 /* ================================
    BUTTONS
 ================================ */
@@ -214,63 +191,29 @@ img {
   background: linear-gradient(135deg, var(--teal-deep), var(--teal));
   color: white;
 }
-
-.button-primary:hover {
-  transform: translateY(-2px);
-}
+.button-primary:hover { transform: translateY(-2px); }
 
 /* ================================
    ANIMATIONS
 ================================ */
-@keyframes fadeUp {
-  from {
-    opacity: 0;
-    transform: translateY(18px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.reveal {
-  opacity: 0;
-  transform: translateY(18px);
-  transition: 0.6s ease;
-}
-
-.reveal.is-visible {
-  opacity: 1;
-  transform: translateY(0);
-}
+@keyframes fadeUp { from { opacity:0; transform:translateY(18px); } to { opacity:1; transform:translateY(0); } }
+.reveal { opacity:0; transform:translateY(18px); transition:0.6s ease; }
+.reveal.is-visible { opacity:1; transform:translateY(0); }
 
 /* ================================
    RESPONSIVE
 ================================ */
 @media (max-width: 1024px) {
-  #main {
-    flex-direction: column;
-    padding: 1.5rem;
-    width: 95%;
-  }
-
-  .sidebar {
-    width: 100%;
-    margin-top: 1.5rem;
-  }
+  #main { flex-direction: column; width: 95%; padding: 1.5rem; }
+  .homepage #main .sidebar, .homepage-sidebar { width: 100%; margin-top: 1.5rem; }
 }
 
 @media (max-width: 768px) {
-  .main-content p {
-    font-size: 0.9rem;
-    line-height: 1.4;
-  }
-
-  h1 {
-    font-size: 1rem;
-  }
-
-  h2 {
-    font-size: 0.95rem;
-  }
+  .main-content p { font-size: 0.9rem; line-height: 1.4; }
+  h1 { font-size: 1rem; }
+  h2 { font-size: 0.95rem; }
+  .author__avatar img { width: 80px; height: 80px; }
+  .author__name { font-size: 0.95rem; }
+  .author__bio { font-size: 0.85rem; }
+  .author__urls .btn { padding: 0.45rem 0.8rem; font-size: 0.85rem; }
 }
