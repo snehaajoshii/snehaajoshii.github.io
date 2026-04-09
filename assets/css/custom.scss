@@ -1,6 +1,10 @@
---- 
-#to make sure Jekyll reads this 
---- 
+---
+# to make sure Jekyll reads this
+---
+
+/* ================================
+   IMPORTS (BASE DESIGN SYSTEM)
+================================ */
 
 @import "default";
 @import "author";
@@ -11,29 +15,36 @@
 @import "post";
 @import "taxonomy";
 
-/* ===== Custom Styles for SentiShelter Page Only ===== */
+/* ================================
+   SENTISHELTER PAGE OVERRIDES
+================================ */
 
 .sentishelter-page .page-title,
 .sentishelter-page .post-title,
 .sentishelter-page h1.page-title {
-  display: none !important;   /* Hide title on this page */
+  display: none !important;
 }
 
+/* Center logo for SentiShelter page */
 .sentishelter-page .header-logo {
   position: absolute;
-  top: 10px;               /* adjust height as needed */
+  top: 10px;
   left: 50%;
   transform: translateX(-50%);
-  max-height: 60px;        /* size of your thin rectangular logo */
+  max-height: 60px;
   z-index: 10;
 }
-/* ===== Timeline Container ===== */
+
+/* ================================
+   TIMELINE COMPONENT (MODERN)
+================================ */
+
 .timeline {
   position: relative;
   margin: 2rem 0;
 }
 
-/* ===== Timeline Item ===== */
+/* Timeline item container */
 .timeline-item {
   display: flex;
   position: relative;
@@ -44,73 +55,76 @@
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: 20px;               /* center of the dot */
-  top: 20px;
+  left: 18px;
+  top: 0;
   width: 2px;
   height: 100%;
-  background: #1a3b70;      /* dark blue */
-  z-index: 0;
+  background: rgba(0, 0, 83, 0.25);
 }
 
-/* ===== Timeline Icon (Dot) ===== */
+/* Timeline dot container */
 .timeline-icon {
   position: relative;
   flex: 0 0 40px;
   display: flex;
   justify-content: center;
+  align-items: flex-start;
 }
 
+/* Timeline dot */
 .timeline-icon::before {
   content: "";
-  margin-top: 20px;
-  width: 16px;
-  height: 16px;
-  background-color: #1a3b70; /* dark blue dot */
+  margin-top: 6px;
+  width: 14px;
+  height: 14px;
+  background: #ff9a41;
   border-radius: 50%;
-  z-index: 1;
+  z-index: 2;
+  box-shadow: 0 0 0 4px rgba(255, 154, 65, 0.15);
 }
 
-/* ===== Timeline Content ===== */
+/* Timeline content */
 .timeline-content {
-  flex: 1 1 auto;
+  flex: 1;
   padding-left: 1rem;
-  max-width: 100%;
 }
 
-/* ===== Text Styling ===== */
+/* Date styling */
 .timeline-date {
   font-weight: 600;
-  color: #1a3b70;
+  color: #000053;
   margin-bottom: 0.25rem;
   display: block;
 }
 
+/* Location styling */
 .timeline-location {
   font-style: italic;
-  color: #555;
+  color: #666;
   margin-bottom: 0.5rem;
   display: block;
 }
 
+/* Titles */
 .timeline-content h3 {
   margin: 0;
+  color: #000;
 }
 
 .timeline-content h4 {
-  margin: 0.2rem 0 0.5rem 0;
+  margin: 0.2rem 0 0.5rem;
   font-weight: 500;
+  color: #333;
 }
 
-/* ===== Bullet Points (Full Width) ===== */
+/* Bullet points */
 .timeline-content ul {
   margin: 0.5rem 0 0;
   padding-left: 1.2rem;
-  list-style-position: outside;
 }
 
 .timeline-content li {
-  width: 100%;
   line-height: 1.6;
   margin-bottom: 0.5rem;
-  word-break: break-word;
+  color: #444;
 }
