@@ -8,6 +8,8 @@
   width: 110px;
   height: 110px;
   object-fit: cover;
+  display: block;
+  margin: 0 auto; /* center the avatar */
 }
 
 .author__content {
@@ -16,15 +18,16 @@
 }
 
 .author__name {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   font-weight: 700;
   color: var(--text);
+  margin-top: 0.5rem;
 }
 
 .author__bio {
   font-size: 0.95rem;
   color: var(--muted);
-  margin-top: 0.4rem;
+  margin-top: 0.5rem;
   line-height: 1.6;
 }
 
@@ -45,9 +48,19 @@
 /* ================================
    LINKS
 ================================ */
+.author__urls {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
 
 .author__urls li a {
   color: var(--muted);
+  font-weight: 500;
+  text-decoration: none;
   transition: 0.2s ease;
 }
 
@@ -58,14 +71,18 @@
 /* ================================
    BUTTON (CONTACT / FOLLOW)
 ================================ */
-
 .author__urls .btn {
   display: block;
   margin-top: 1rem;
-  padding: 0.7rem;
+  padding: 0.7rem 1.2rem;
   border-radius: 999px;
   text-align: center;
   background: linear-gradient(135deg, var(--teal), var(--teal-deep));
   color: white;
   font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.author__urls .btn:hover {
+  transform: translateY(-2px);
 }
