@@ -1,20 +1,71 @@
+/* ================================
+   MASTHEAD (TOP HEADER AREA)
+================================ */
+
 .masthead {
-    background: white; // Remove gradient and set to white
-    box-shadow: none; // Remove any shadows if present
-    border: none; // Ensure no borders
+  background: white;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
 }
 
+/* ================================
+   NAV BAR WRAPPER
+================================ */
+
 #site-nav {
-    background-color: white; // Set navigation background to white
+  background-color: white;
+  padding: 0.8rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+/* ================================
+   NAV LINKS
+================================ */
 
 #site-nav a,
 #site-nav a:visited {
-    color: #000053; // Keep text color consistent
-    font-family: "Rubik";
-    text-decoration: none; // Remove underline for links
+  color: #000053;
+  font-family: "Rubik", sans-serif;
+  text-decoration: none;
+  font-weight: 500;
+  margin: 0 0.8rem;
+  position: relative;
+  transition: 0.2s ease;
 }
 
+/* Hover effect */
 #site-nav a:hover {
-    color: #ff9a41; // Optional: Add a hover effect for links
+  color: #ff9a41;
+}
+
+/* Underline animation */
+#site-nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0%;
+  height: 2px;
+  background: #ff9a41;
+  transition: 0.25s ease;
+}
+
+#site-nav a:hover::after {
+  width: 100%;
+}
+
+/* ================================
+   BRAND / LOGO AREA (if exists)
+================================ */
+
+.site-title,
+.masthead__title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000053;
 }
