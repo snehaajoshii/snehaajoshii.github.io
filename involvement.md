@@ -11,7 +11,7 @@ Beyond academics, my involvement in programs, research, competitions, and leader
 ### National Organizations
 - **Rewriting the Code (RTC) Fellow**  
   Part of a 40,000+ member community supporting women in tech through mentorship, career development, and industry connections. Engaged in technical communities, attended events such as Harvard WECode, and built early confidence navigating spaces in AI, data science, and software engineering.
-- **Society of Women Engineers (SWE)**  
+- **Society of Women Engineers (SWE) Member**  
   Active member engaged in a community dedicated to supporting women in engineering through networking, professional development, and mentorship. Attended the SWE Conference in Chicago, where I connected with engineers and recruiters, explored industry opportunities, and strengthened my confidence navigating professional spaces in tech. 
 
 ### Campus Organizations
