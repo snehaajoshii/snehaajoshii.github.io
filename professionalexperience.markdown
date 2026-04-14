@@ -33,7 +33,6 @@ This page provides an overview of my professional journey as an engineer, spanni
   <li>Developed a deep understanding of rack-scale AI systems (GB200: 36 Grace CPUs + 72 Blackwell GPUs in a single NVLink domain), recognizing repair delays as critical bottlenecks impacting provisioning, capacity availability, and large-scale AI training/inference operations.</li>
   
   </ul>
-      </ul>
     </div>
   </div>
 
