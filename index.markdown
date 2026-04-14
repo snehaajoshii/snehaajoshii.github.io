@@ -24,24 +24,37 @@ Outside of tech, I enjoy learning, exploring new tools, and staying active in co
 ## Skills & Technologies
 
 ### 💻 Languages
-- Python, Java, R, SQL  
-- HTML/CSS, JavaScript  
+- Python, SQL, Java, JavaScript  
+- HTML/CSS  
 
-### 🔐 Security Tools & Concepts
-- OWASP Top 10  
-- AES / RSA Encryption  
-- Secure Coding Practices  
-- Threat Modeling & RBAC  
-- Wireshark, Nmap, Kali Linux  
-- Splunk, Nagios  
+### 🤖 Machine Learning & AI
+- Scikit-learn, TensorFlow, XGBoost  
+- NLP Pipelines, LLM Integration  
+- Model Validation, Cross-Validation, Regression Modeling  
+- LIME, SHAP, AI Fairness 360  
 
-### ⚙️ Technical Strengths
-- Threat Detection & Anomaly Analysis  
-- Secure API Development  
-- Automation & UAT  
-- Large-scale Data Analysis  
-- Problem-Solving & Critical Thinking  
-- Leadership, Teamwork, Customer Service  
+### 🛠️ Data Engineering & Systems
+- Apache Kafka, Apache Spark  
+- ETL Pipelines, Data Modeling  
+- Entity Resolution, Record Linkage  
+- Temporal Data Modeling, Large-Scale Data Processing  
+
+### ⚙️ Backend & Software Engineering
+- FastAPI, Flask, Node.js  
+- REST APIs, Asynchronous Processing, Multithreading  
+
+### 📊 Data Visualization & Analytics
+- Grafana, Tableau, Power BI  
+- Matplotlib, Seaborn, Stata  
+
+### 🔍 Technical Strengths
+- Large-Scale System Design & Observability  
+- Data-Driven Problem Solving  
+- Root Cause Analysis & Debugging  
+- Automation & Process Optimization  
+- Cross-Functional Collaboration & Leadership  
+
+---
 
 ---
 
