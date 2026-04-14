@@ -16,9 +16,6 @@ Beyond academics, my involvement in programs, research, competitions, and leader
 
 ### Campus Organizations
 - **Phi Eta Sigma Honors Society** – Honors scholar
-- **Society of Women Engineers (SWE)**  
-  Active member participating in professional development, networking, and mentorship opportunities. Attended the SWE Conference in Chicago, connecting with engineers and recruiters while gaining exposure to industry pathways and strengthening confidence in technical spaces.
-
 ---
 
 ## Leadership
