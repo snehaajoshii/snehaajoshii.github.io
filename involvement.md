@@ -55,15 +55,13 @@ Beyond academics, my involvement in programs, research, competitions, and leader
 
 - **AGA Datathon Finalist**  
   Finalist in the inaugural AGA Datathon, where my team analyzed U.S. federal funding for DEIA (Diversity, Equity, Inclusion, and Accessibility) initiatives and its impact on student graduation rates. Conducted data-driven research using statistical regression modeling and machine learning-based cross-validation techniques.  
-  This project deepened my understanding of real-world policy analysis, exploring how federal funding shapes educational outcomes while highlighting broader challenges in AI policy and governance. Strengthened technical skills in Python libraries including SciPy, scikit-learn, statsmodels, and Seaborn.
 
 ---
 
 ## Programs
 
 - **Carnegie Mellon University Public Policy & International Affairs Fellowship Program**  
-  Selected to participate in a policy-focused fellowship centered on the theme *“AI for All: What Leaders Need to Know to Ensure Equitable Outcomes.”* Collaborated in a policy hackathon to design a moonshot innovation: a classroom technology capable of detecting student engagement and comprehension levels to improve learning outcomes.  
-  This experience deepened my interest in the intersection of AI, education, and labor policy, while also emphasizing the importance of ethical frameworks, data privacy, and equitable access in emerging technologies. Awarded a **30% tuition scholarship** to Carnegie Mellon’s Heinz College of Public Policy.
+  Selected to participate in a policy-focused fellowship centered on the theme *“AI for All: What Leaders Need to Know to Ensure Equitable Outcomes.”* Collaborated in a policy hackathon to design a moonshot innovation: a classroom technology capable of detecting student engagement and comprehension levels to improve learning outcomes.Awarded a **30% tuition scholarship** to Carnegie Mellon’s Heinz College of Public Policy.
 
 - **CodePath – Advanced Technical Interview Preparation & Emerging Engineers Summit 2024**  
   Completed an intensive technical interview preparation program focused on data structures, algorithms, and problem-solving strategies. Selected to attend the CodePath Emerging Engineers Summit, where I participated in workshops, connected with engineers from leading tech companies, and engaged in discussions on the future of the tech workforce.
