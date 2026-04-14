@@ -18,10 +18,21 @@ This page provides an overview of my professional journey as an engineer, spanni
       <h4>Oracle America Inc.</h4>
       <span class="timeline-location">Seattle, WA, USA</span>
       <ul>
-        <li>Implemented and owned the Longtail project, leveraging multi-threading and asynchronous programming in Python and SQL to enable real-time monitoring and parallelized repair of multiple sidelined GPU hosts (including NVIDIA’s new GB200).</li>
-        <li>Achieved a 55% reduction in average repair time for sidelined GPU hosts and increased repair throughput by 30%, directly contributing to $37M in cost savings for Oracle since September.</li>
-        <li>Tracked and reported KPIs such as mean time to repair (MTTR), failure rates, and host recovery percentages using Grafana and custom dashboards.</li>
-        <li>Built and maintained extensive automated test suites using Pytest and Unittest, ensuring continuous integration of diagnostic and repair scripts.</li>
+      <li>Engineered a large-scale data pipeline combining entity matching, temporal modeling, regex parsing, precedence logic, and timeline stitching to reconstruct structured repair events from noisy Jira and operational datasets.</li>
+
+  <li>Integrated LLM-driven repair summaries, action/component classification, validation pipelines, and root-cause analysis into reporting workflows, with automated refresh and comparison systems to maintain alignment with continuously evolving ticket data.</li>
+
+   <li>Achieved ~82% direct ticket-to-repair match coverage (pre-archive enrichment) and scaled outputs into executive-facing dashboards and daily reports consumed by VP leadership and strategic customers including NVIDIA, Meta, OpenAI, TikTok, and xAI.</li>
+
+  <li>Contributed to initiatives tied to over $103.5M in repair-related revenue impact, increasing visibility into GPU fleet health and accelerating recovery of critical AI infrastructure capacity.</li>
+
+  <li>Defined GPU host-level availability metrics by formalizing lifecycle states (e.g., repair, validation, handoff, blocked), translating ambiguous infrastructure transitions into consistent, decision-ready definitions used for internal reporting and external partners such as NVIDIA.</li>
+
+  <li>Independently leading a new CPU repair visibility initiative to establish the first unified view of CPU repair health within Oracle Compute, expanding observability beyond GPU systems.</li>
+
+  <li>Developed a deep understanding of rack-scale AI systems (GB200: 36 Grace CPUs + 72 Blackwell GPUs in a single NVLink domain), recognizing repair delays as critical bottlenecks impacting provisioning, capacity availability, and large-scale AI training/inference operations.</li>
+  
+  </ul>
       </ul>
     </div>
   </div>
